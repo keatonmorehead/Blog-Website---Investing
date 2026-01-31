@@ -114,6 +114,85 @@ const blogs = [
                 <sup>[2]</sup> <a href="https://www.federalreserve.gov/releases/z1/20250911/z1.pdf" target="_blank">https://www.federalreserve.gov/releases/z1/20250911/z1.pdf</a>
             </p>
         `
+    },
+    {
+        id: 'post-2',
+        title: 'Blog 2 - Price Is a Forecast, Not a Fact',
+        date: '2026-01-31',
+        preview: 'Price is closer to a forecast than a thermometer. It is a compressed opinion about the future, not a verdict on the present.',
+        content: `
+            <p>I was about to say for those of you who know me personally, but everyone reading this knows me personally, so I will just say what I was going to say.</p>
+            <p>As you know, I graduated in December. I'll be out in Utah until May saving up money for my Europe travels this summer and working on an app with my roommate Jackson. After this I plan to move back to San Diego and take a gap year continuing to work on this app, or some other business that we may fall into after working on this app. Everything moves in this early phase of life. I can't say where I'll be, all I can say is for a year or two I'll be serving tables to fund my ventures trying to build something. Whatever comes on the other side of that, even failure, I feel I will not regret it at all. It's a "risk" I feel I must take.</p>
+            <p>The app is designed to be a tool to help you use your phone intentionally, in scheduled windows, rather than impulsively. A lot of "screen time" or "productivity" apps right now center around blocking windows. We want to instead center around usage windows.</p>
+            <p>It sounds like the same thing, but it's different both mentally and in reality. Blocking your phone for the workday, then having unlimited freedom after that does not ingrain better habits with your phone. It creates whiplash, using it none, then using it for hours. It creates constant internal willpower battles. Learning how to instead use it as a tool to support your life in scheduled windows limits the downside and enhances the upside of our devices, how they were designed to work. There is no internal willpower battle, it's just a new way of life, a new routine, new habits.</p>
+            <p>But that's really beside the point. I wanted to mention that because that is why I haven't been writing these blogs. I've been very focused on coding this app. I've also been working 6 days a week at Bambara (restaurant), learning more about life there than school ever taught me.</p>
+            <p>But I also really am curious about markets, investing, and how psychology comes into play within these areas. And I feel everyone reading these has the capabilities to understand these domains and apply them to their own portfolios. So, I want to help give everyone reading these blogs the tools and frameworks to do that.</p>
+            <p>But I also want to keep writing these and expand into other topics, not just value investing. So you can also all understand: where are we at currently, where are we headed, how can I invest my money today to best prepare for that? And more.</p>
+            <p>So that's why I scraped some time together to write this. I'll make it more consistent moving forward, and this is just the beginning. You are all my friends reading this, and I want you all to understand markets, finance, investing, economics, and psychology more with every article. That's my goal. So please send me feedback (text me) on how this piece of writing either helped that, or where it could be better. Also, I don't like the idea of making this subscriber based, but so I don't have to text you every time I make one of these, I made an email notification list. Enter your email at the bottom if you want to be alerted every time I publish.</p>
+            <p>Enjoy.</p>
+
+            <h2>Price Is a Forecast, Not a Fact</h2>
+            <p>Most people look at a stock price the way they look at a temperature. A number that tells you how things are.</p>
+            <p>That is not what price is.</p>
+            <p>Price is closer to a forecast than a thermometer. It is a compressed opinion about the future. A story translated into a number, updated every second by crowds of humans with incentives, fears, and time limits. When you internalize that, "cheap" stops meaning "low." It starts meaning "misaligned expectations."</p>
+            <p>This is the operating system I want to install: the price you see is not a verdict on the present. It is a bet on what comes next.</p>
+            <p>A business can be healthy and still be a bad investment if the price assumes miracles. A business can be imperfect and still be a good investment if the price assumes a funeral. The gap between those assumptions and reality is where value lives.</p>
+
+            <h2>Price vs. value, as expectations</h2>
+            <p>Value, in plain language, is what you get over time for what you pay today. Price is what you pay.</p>
+            <p>The mistake is treating price like it is the same thing as value. Price is just the current clearing point of competing expectations. It encodes what investors collectively believe, or fear, about growth, profits, competition, interest rates, regulation, and durability. It also encodes impatience, and how badly people need to be right soon.</p>
+            <p>Two things follow from this.</p>
+            <p>First, price is forward-looking by nature. Even when people say they are "looking at fundamentals," they are usually arguing about future fundamentals.</p>
+            <p>Second, a stock can go nowhere even while the company improves, if that improvement was already expected. And a stock can fall even while the company does fine, if the market expected greatness.</p>
+            <p>When someone tells you a stock is "cheap," the right response is not agreement or disagreement. The right response is: cheap relative to what future?</p>
+
+            <h2>The two scoreboards</h2>
+            <p>Markets keep two scoreboards.</p>
+            <p>In the short run, markets are a popularity contest. Mood, narratives, positioning, and fear dominate.</p>
+            <p>In the long run, markets are an accounting of results. Cash flows, resilience, and competitive realities start to matter more than charisma.</p>
+            <p>Benjamin Graham said it cleanly: "In the short run, the market is a voting machine but in the long run it is a weighing machine." I like that line because it reminds me to stop treating every price move like new truth.</p>
+            <p>The voting machine is not stupid. It is human. It overweights the most available story. It anchors on the most recent chart. It follows what other people seem to believe, because social proof in markets is a survival instinct wearing a suit and running spreadsheets.</p>
+            <p>The weighing machine is slower, but stubborn. Over time, businesses that generate durable cash and reinvest it well tend to pull their market value toward them. Businesses that disappoint, or that require constant financing, tend to lose the ability to sustain optimistic pricing.</p>
+
+            <h2>A quick picture from the late 1990s</h2>
+            <p>If you want a clean example of expectations overwhelming reality, look at the dot-com bubble.</p>
+            <p>The late 1990s were not irrational because people believed the internet would matter. They were irrational because price stopped reflecting how much it would matter, and started reflecting how fast it might matter, how universally it might matter, and how soon profits would arrive.</p>
+            <p>Many companies went public with little revenue, no profits, and vague business models. Even established companies with real technology and real customers were priced as if growth were infinite and competition irrelevant. Price became a vote on possibility, not outcomes.</p>
+            <p>When expectations are that high, reality does not need to be bad to disappoint. It only needs to be normal.</p>
+            <p>As interest rates rose, capital costs rose and cash burn became visible, the weighing machine reasserted itself. Some businesses survived and even became dominant years later. Many did not. But almost all investments made at peak expectations were poor, regardless of whether the underlying idea was sound.</p>
+            <p>The lesson is not that innovation is dangerous. The lesson is that paying today for perfection tomorrow leaves no margin for reality.</p>
+
+            <h2>My three-layer framework for value</h2>
+            <p>I do not think value investing is a scavenger hunt for cheap-looking ratios. I think of it as three stacked lenses. Each lens matters, but none is sufficient.</p>
+            <p>The first lens is statistical value. This is screen-level cheapness. Ratios like price-to-earnings, price-to-sales, price-to-book, free cash flow yield. I use them like a flashlight in a dark room. They help me find doors. They do not tell me what is behind them.</p>
+            <p>The second lens is economic value. This is business reality. How much cash does the business generate, and how reliably? How fragile is it in a downturn? Does it need constant outside funding? Does it have a real competitive position, or is it one product away from irrelevance? Here I am trying to understand the machine, not just the sticker price.</p>
+            <p>The third lens is behavioral value. This is the why behind mispricing. What narrative dominates attention? Who is forced to sell? Who is structurally unable to buy? What career risks do professional managers face? What time horizons trap investors? What future is currently priced in? If there is no behavioral reason for mispricing, I assume I am missing something.</p>
+            <p>Put differently: statistical value finds candidates, economic value explains the quality of the underlying business, and behavioral value explains what future the market is expecting and why it might be overreacting.</p>
+
+            <h2>Why metrics feel comforting, and why that comfort misleads</h2>
+            <p>Metrics feel honest because they are crisp, simple, and objective.</p>
+            <p>A ratio looks like reality because it is precise. It gives your brain closure. In a world of uncertainty, numbers feel like solid ground.</p>
+            <p>That feeling is useful. It is also dangerous.</p>
+            <p>A metric is a narrow measurement taken at one moment, under one accounting system, created for a specific reason. It can be distorted by cycles, buybacks, one-time charges, acquisitions, or accounting choices. A business is a living system, not a spreadsheet.</p>
+            <p>More importantly, a "cheap" metric can be a warning label, not a bargain tag. Sometimes the price is low because the future is genuinely worse than the past. Sometimes it is low because investors hate uncertainty more than bad outcomes. A ratio cannot tell you which you are looking at.</p>
+            <p>So I treat metrics as filters, not answers. They help me ask better questions. They do not declare truth.</p>
+
+            <h2>A mental checklist, in the form of questions</h2>
+            <p>When I am tempted to ask, "Is it cheap?" I try to replace that with questions that force expectations into the open.</p>
+            <p>What future is implied by this price? Not the future I want, or management is selling, but the future the market is already paying for.</p>
+            <p>What would have to go right for this price to make sense? If the answer requires perfect execution with no setbacks, the price is fragile. If it requires the business simply keeps operating at all, the price might be cheap.</p>
+            <p>Or, what would surprise investors? Surprise is the engine of repricing.</p>
+            <p>Why is this being ignored or disliked? Sometimes the answer is rational. Sometimes it is structural. Sometimes it is emotional. I do not assume the crowd is wrong, but I do assume the crowd is human.</p>
+            <p>If you hold these questions in your head, you stop chasing cheap ratios and start evaluating the gap between expectation and reality.</p>
+
+            <h2>Why this works, and why it is hard</h2>
+            <p>This approach works because markets are not perfectly patient or perfectly rational. Humans overreact, anchor, herd, and extrapolate. Losses hurt more than gains feel good. Recent history feels truer than distant history. Crowded narratives feel safer than lonely ones.</p>
+            <p>It is hard because even when you are right about the long-term weighing machine, you must live through the voting machine.</p>
+            <p>There is a simple idea in finance called limits to arbitrage. In plain English, it means smart money cannot always correct mispricing quickly. Being right is not the same as being early. Capital has constraints. Careers have clocks.</p>
+            <p>So mispricings persist. Narratives win longer than they should. That does not invalidate the weighing machine. It only makes patience expensive.</p>
+            <p>This is why value investing is not primarily a math problem. It is a temperament problem.</p>
+            <p>I'll leave you with a simple question to screen with, rather than a ratio: if the market's current price is a forecast, what specific forecast is embedded in it, and is that realistic?</p>
+        `
     }
 ];
 
