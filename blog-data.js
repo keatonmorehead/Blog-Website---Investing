@@ -121,6 +121,7 @@ const blogs = [
         date: '2026-01-31',
         preview: 'Price is closer to a forecast than a thermometer. It is a compressed opinion about the future, not a verdict on the present.',
         content: `
+            <h2>First, a life update for those who care</h2>
             <p>I was about to say for those of you who know me personally, but everyone reading this knows me personally, so I will just say what I was going to say.</p>
             <p>As you know, I graduated in December. I'll be out in Utah until May saving up money for my Europe travels this summer and working on an app with my roommate Jackson. After this I plan to move back to San Diego and take a gap year continuing to work on this app, or some other business that we may fall into after working on this app. Everything moves in this early phase of life. I can't say where I'll be, all I can say is for a year or two I'll be serving tables to fund my ventures trying to build something. Whatever comes on the other side of that, even failure, I feel I will not regret it at all. It's a "risk" I feel I must take.</p>
             <p>The app is designed to be a tool to help you use your phone intentionally, in scheduled windows, rather than impulsively. A lot of "screen time" or "productivity" apps right now center around blocking windows. We want to instead center around usage windows.</p>
