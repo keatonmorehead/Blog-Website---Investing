@@ -4,20 +4,25 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-      - name: Send Buttondown notification
+      - name: Sanity check Buttondown API key
         env:
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
         run: |
           if [ -z "$BUTTONDOWN_API_KEY" ]; then
-            echo "BUTTONDOWN_API_KEY is not set. Skipping notification."
-            exit 0
+            echo "BUTTONDOWN_API_KEY is not set. Failing fast."
+            exit 1
           fi
+      - name: Send Buttondown notification
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: |
           curl -sS -X POST "https://api.buttondown.email/v1/emails" \
             -H "Authorization: Token $BUTTONDOWN_API_KEY" \
             -H "Content-Type: application/json" \
-            -d "{\"subject\":\"Morehead Market Insights: New update published\",\"body\":\"A new update is live: https://keatonmorehead.github.io/Blog-Website---Investing/\",\"status\":\"sent\"}"
+            -d "{\"subject\":\"Keaton Morehead: New update published\",\"body\":\"A new update is live: https://keatonmorehead.github.io/Blog-Website---Investing/\",\"status\":\"sent\"}"
