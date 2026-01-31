@@ -193,6 +193,20 @@ const blogs = [
             <p>So mispricings persist. Narratives win longer than they should. That does not invalidate the weighing machine. It only makes patience expensive.</p>
             <p>This is why value investing is not primarily a math problem. It is a temperament problem.</p>
             <p>I'll leave you with a simple question to screen with, rather than a ratio: if the market's current price is a forecast, what specific forecast is embedded in it, and is that realistic?</p>
+
+            <hr style="margin: 2rem 0;">
+            <section class="subscribe-section">
+                <div class="section-header">
+                    <h2 class="section-title">Stay in the Loop</h2>
+                    <p class="section-subtitle">Get an email when a new post goes live.</p>
+                </div>
+                <form class="subscribe-form" action="https://buttondown.com/api/emails/embed-subscribe/keaton" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/keaton', 'popupwindow')">
+                    <input type="hidden" name="embed" value="1">
+                    <input class="subscribe-input" type="email" name="email" placeholder="Enter your email" required>
+                    <button class="subscribe-button" type="submit">Notify Me</button>
+                </form>
+                <p class="subscribe-note">No spam. Unsubscribe anytime.</p>
+            </section>
         `
     }
 ];
