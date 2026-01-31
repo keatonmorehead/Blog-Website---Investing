@@ -77,22 +77,14 @@ function loadBlogList() {
     // Sort blogs by date (newest first)
     const sortedBlogs = [...blogs].sort((a, b) => new Date(b.date) - new Date(a.date));
     
-    blogListContainer.innerHTML = sortedBlogs.map((blog, index) => {
-        const isFirstPost = blog.id === 'post-1';
-        return `
-        <div class="blog-card" onclick="openBlogPost('${blog.id}')">
-            ${!isFirstPost ? `<div class="blog-card-image">
-                💼
-            </div>` : ''}
-            <div class="blog-card-content">
-                <div class="blog-card-date">${formatDate(blog.date)}</div>
-                <h3 class="blog-card-title">${blog.title}</h3>
-                <p class="blog-card-preview">${blog.preview}</p>
-                <a href="#blog/${blog.id}" class="blog-card-read-more" onclick="event.stopPropagation(); openBlogPost('${blog.id}')">Read More →</a>
-            </div>
-        </div>
-    `;
-    }).join('');
+    blogListContainer.innerHTML = sortedBlogs.map((blog) => `
+        <article class="blog-card" onclick="openBlogPost('${blog.id}')">
+            <div class="blog-card-date">${formatDate(blog.date)}</div>
+            <h3 class="blog-card-title">${blog.title}</h3>
+            <p class="blog-card-preview">${blog.preview}</p>
+            <a href="#blog/${blog.id}" class="blog-card-link" onclick="event.stopPropagation(); openBlogPost('${blog.id}')">Read</a>
+        </article>
+    `).join('');
 }
 
 // Open blog post
