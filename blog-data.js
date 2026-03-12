@@ -215,7 +215,19 @@ const blogs = [
         date: '2026-03-12',
         preview: 'Price is a crowd forecast built from stories, not spreadsheets. This post explores how narratives dominate market pricing, why mispricings persist due to institutional constraints, and applies the three-layer value framework to PayPal as a real-time example.',
         content: `
-            <p class="disclaimer"><em><strong>Disclaimer:</strong> The content provided in this blog is for informational and educational purposes only and does not constitute financial, investment, or legal advice. I am not a registered investment advisor, and nothing herein should be construed as personalized recommendations to buy, sell, or hold any security. All investments involve risk, including the potential loss of principal, and past performance is not indicative of future results. I may hold positions in securities discussed, and my opinions are based on my own research and experiences. Always conduct your own due diligence and consult with a qualified financial professional before making any investment decisions. I assume no liability for any actions taken based on this information.</em></p>
+            <section class="subscribe-section" style="margin-bottom: 2rem;">
+                <div class="section-header">
+                    <h2 class="section-title">Stay in the Loop</h2>
+                    <p class="section-subtitle">Get an email when a new post goes live.</p>
+                </div>
+                <form class="subscribe-form" action="https://buttondown.com/api/emails/embed-subscribe/keaton" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/keaton', 'popupwindow')">
+                    <input type="hidden" name="embed" value="1">
+                    <input class="subscribe-input" type="email" name="email" placeholder="Enter your email" required>
+                    <button class="subscribe-button" type="submit">Notify Me</button>
+                </form>
+                <p class="subscribe-note">No spam. Unsubscribe anytime.</p>
+            </section>
+            <hr style="margin: 2rem 0;">
 
             <p><strong><em>PERSONAL SECTION – SKIP IF YOU WANT TO</em></strong></p>
 
@@ -236,8 +248,6 @@ const blogs = [
             <p>Besides that, I've been skiing a copious amount of days and working a healthy amount at Bambara, slowly transitioning into the bar as a barback. Every day is different. I have no clue where this app will take me, but I'm excited for what's to come. I can hear my Dad down my ear telling me to start looking for a real job. Hi Dad!</p>
 
             <p>Hope you enjoy the read. Cheers.</p>
-
-            <h2>Blog 3: When Price Is a Forecast, Stories Move the Market</h2>
 
             <p>In the last post, we established something that sounds simple but changes how you see markets once you sit with it. By definition, every dividend in the past has been paid. Every earnings report has been filed. Every buyback has been announced. All of that is the rearview mirror. The only thing left for price to reflect is what people believe will happen next.</p>
 
