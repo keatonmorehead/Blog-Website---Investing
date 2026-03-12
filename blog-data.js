@@ -208,6 +208,189 @@ const blogs = [
                 <p class="subscribe-note">No spam. Unsubscribe anytime.</p>
             </section>
         `
+    },
+    {
+        id: 'post-3',
+        title: 'Blog 3 - When Price Is a Forecast, Stories Move the Market',
+        date: '2026-03-12',
+        preview: 'Price is a crowd forecast built from stories, not spreadsheets. This post explores how narratives dominate market pricing, why mispricings persist due to institutional constraints, and applies the three-layer value framework to PayPal as a real-time example.',
+        content: `
+            <p class="disclaimer"><em><strong>Disclaimer:</strong> The content provided in this blog is for informational and educational purposes only and does not constitute financial, investment, or legal advice. I am not a registered investment advisor, and nothing herein should be construed as personalized recommendations to buy, sell, or hold any security. All investments involve risk, including the potential loss of principal, and past performance is not indicative of future results. I may hold positions in securities discussed, and my opinions are based on my own research and experiences. Always conduct your own due diligence and consult with a qualified financial professional before making any investment decisions. I assume no liability for any actions taken based on this information.</em></p>
+
+            <p><strong><em>PERSONAL SECTION – SKIP IF YOU WANT TO</em></strong></p>
+
+            <p>Welcome to the jungle baby. We're back.</p>
+
+            <p>Actions speak louder than words, and it took me more than a month to pump another one of these out. I let my own word down. That won't happen again. I'll post these once a week moving forward, on Sunday nights.</p>
+
+            <p>Please use the email subscribe so I don't have to text all of you apes. I think this is up to 20 people now, and you all know how much I hate using my phone.</p>
+
+            <p>My friend Jack (shoutout Jack, best salesman in the world), said he liked the personal update. So I'll give one again incase anyone cares. I don't expect many will, but I suspect some might. For anyone I haven't spoken to in a while that would like to catch up, let's ski, golf, or grab some beers before I wrap up my time here.</p>
+
+            <p>Speaking of phone usage, I have been coding an insane amount for the app I'm developing/working on with my roommate Jackson. It is actually really, really cool in my definitely not biased opinion. But genuinely, it is.</p>
+
+            <p>At a high level, it helps you understand your phone usage patterns and habits more, and allows you to genuinely connect with friends with our social tab and share about your real life. Not Instagram highlights, but your real life, only with photos or videos that have been taken in the last 3 days. Friends only. No feed, no algorithm, no ads, no data collection.</p>
+
+            <p>So we help you reclaim your time from these highly addictive and gamified apps but then also give you a way to connect with people you care about online once you step out of that bubble. Because without that, it's pretty isolating. That's pretty apparent to those of you who know me personally. I'm a ghost online, and I wish it didn't have to be that way. I'll have the app for everyone to download and test by April 1st, and I'll have it launched on the app store by May 1st before I go to Europe.</p>
+
+            <p>Besides that, I've been skiing a copious amount of days and working a healthy amount at Bambara, slowly transitioning into the bar as a barback. Every day is different. I have no clue where this app will take me, but I'm excited for what's to come. I can hear my Dad down my ear telling me to start looking for a real job. Hi Dad!</p>
+
+            <p>Hope you enjoy the read. Cheers.</p>
+
+            <h2>Blog 3: When Price Is a Forecast, Stories Move the Market</h2>
+
+            <p>In the last post, we established something that sounds simple but changes how you see markets once you sit with it. By definition, every dividend in the past has been paid. Every earnings report has been filed. Every buyback has been announced. All of that is the rearview mirror. The only thing left for price to reflect is what people believe will happen next.</p>
+
+            <p>Price is the marginal clearing point of those beliefs. Marginal meaning it is not set by the average investor, or even the smartest one. It is set by the most recent buyer and seller willing to transact at that moment. It reflects whose conviction is strong enough, urgent enough, or anxious enough to act right now.</p>
+
+            <p>That makes price a crowd forecast.</p>
+
+            <p>And if price is a crowd forecast, the most important question is: what actually goes into it?</p>
+
+            <h2>Why Forecasts Are Made of Stories</h2>
+
+            <p>When you try to forecast what a company will earn three years from now, you are stacking uncertainties on top of uncertainties. Revenue depends on consumer behavior, competitor strategy, regulatory shifts, input costs, interest rates, management decisions, and technological change. Each of those carries its own range of outcomes. Combine them and the range of plausible futures becomes enormous.</p>
+
+            <p>Forecasting future numbers precisely is not just hard. It is, in any honest sense, impossible. Not because people are careless. Because the future does not arrive neatly.</p>
+
+            <p>When precision breaks down, probabilities widen. And when probabilities widen, humans do what they have always done. They simplify.</p>
+
+            <p>We are not wired to think in probability distributions. We are wired to think in stories. What feels safe. What feels inevitable. What feels obvious looking back. A clean narrative compresses a wildly complex future into something the brain can act on.</p>
+
+            <p>This matters because when you accept that numerical forecasts are inherently uncertain, you realize that something else has to fill the gap. And what fills the gap, overwhelmingly, is narrative. Not spreadsheets. Not models. Stories about what the future will look like, told with enough confidence that they feel like facts.</p>
+
+            <p>Consider how this plays out in real time. A company reports earnings. Two signals arrive simultaneously. The first is the actual report: revenue composition, margin trends, guidance, balance sheet changes. That takes analysts hours, sometimes days, to fully digest. It is dense, ambiguous, and full of tradeoffs.</p>
+
+            <p>The second is a headline. "Company X misses expectations." Four words. Instantly understood. Emotionally loaded.</p>
+
+            <p>Which one moves price first? Always the headline. Always the story. Not because the story is more accurate, but because it is faster. Price follows the fastest signal, not the most complete one.</p>
+
+            <p>Business reality updates over quarters and years. Narratives update in seconds.</p>
+
+            <h2>The Crowd Mind</h2>
+
+            <p>Gustave Le Bon studied crowd behavior more than a century ago, and what he found still describes markets with uncomfortable precision. He wrote that <strong><em>"crowds always, and individuals as a rule, stand in need of ready-made opinions on all subjects. The popularity of these opinions is independent of the measure of truth or error they contain, and is solely regulated by their prestige."</em></strong></p>
+
+            <p>Sit with that. The popularity of a belief has nothing to do with whether it is true. It depends on how prestigious the belief feels. How confident the people saying it appear. How many others already seem to hold it.</p>
+
+            <p>Le Bon also observed that <strong><em>"a crowd thinks in images, and the image itself calls up a series of other images, having no logical connection with the first."</em></strong> One image triggers another. One story calls forward the next. The chain is emotional, not analytical.</p>
+
+            <p>Markets are the crowd mind rendered numerically.</p>
+
+            <p>That does not mean crowds are stupid. It means they are social. Beliefs propagate through contagion, not calculation. Once a narrative takes hold, it spreads through imitation and reinforcement. People adopt opinions not because they independently arrived at them, but because others hold them. And critically, price movement itself becomes evidence. Rising prices feel like validation. Validation attracts more capital. More capital pushes prices higher. The loop feeds on itself.</p>
+
+            <p>This works in both directions. And it explains something that seems impossible at first glance: markets can be mispriced even when everyone agrees.</p>
+
+            <h2>Housing, 2005 to 2007</h2>
+
+            <p>The U.S. housing market in the mid-2000s is one of the cleanest examples of what happens when the narrative becomes the forecast.</p>
+
+            <p>The narrative was simple. Housing always goes up. Real estate is the safest asset class. Homeownership builds wealth. This is not a gamble, this is just how it works.</p>
+
+            <p>That narrative spread through culture, not spreadsheets. Neighbors saw neighbors getting rich. Cocktail party conversations turned into investment theses. Television shows about flipping houses made speculation feel like common sense. The story was everywhere, which made it feel true, which made it even more everywhere.</p>
+
+            <p>As prices rose, belief strengthened. Rising prices reinforced the story that housing was stable and self-correcting. That confidence pulled in more buyers. More buyers pushed prices higher. Higher prices made the narrative feel even more obvious.</p>
+
+            <p>The story became the forecast. The forecast justified the price. The price validated the story.</p>
+
+            <p>For years, nothing seemed to contradict it. If prices are rising, the brain concludes the system must be healthy. If the system is healthy, higher prices must be justified. It is circular, but it feels like common sense while you are inside it.</p>
+
+            <p>Then reality did what it always does. Mortgages still require monthly payments. Payments require income. Income is not a narrative. Cash flow is not a vibe. Those constraints are the closest thing markets have to physics. Physics can be ignored for a while, but it cannot be repealed.</p>
+
+            <p>Housing did not need to become apocalyptic overnight. It only needed enough borrowers to reach the boundary at the same time. A missed payment here. A rate reset there. A refinancing that could not happen because prices stopped climbing. Once the system could no longer roll forward on belief alone, the story lost its foundation.</p>
+
+            <p>And once the story cracked, the same loop that drove prices up reversed direction. Falling prices invalidated the narrative. Invalidation created fear. Fear caused selling. Selling pushed prices lower. Lower prices created more fear. The crowd did not discover a new world. It rediscovered an old one.</p>
+
+            <p>Le Bon anticipated this. He wrote that <strong><em>"the precise moment at which a great belief is doomed is easily recognizable; it is the moment when its value begins to be called into question."</em></strong></p>
+
+            <p>That is the anatomy of a narrative break. Not a sudden revelation. Just enough doubt to crack the consensus.</p>
+
+            <p>The uncomfortable part is that most people inside the bubble were not fools. Many were doing exactly what their incentives, peers, and price signals told them was correct. Fund managers who sat out the rally faced redemptions. Lenders who tightened standards lost market share. Individuals who rented watched friends build paper wealth for years.</p>
+
+            <p>Bubbles are not caused by idiots. They are caused by rational agents playing a higher-order belief game under constraint.</p>
+
+            <h2>Expectations Mean Reversion</h2>
+
+            <p>The housing story illustrates something I want to name explicitly, because it is one of the most important ideas in this entire framework.</p>
+
+            <p>When people hear "mean reversion," they usually think of business fundamentals. Earnings recover. Margins normalize. Cycles turn. That does happen. But it happens slowly, over quarters and years.</p>
+
+            <p>What mean reverts fastest is not the business. It is what people believe about the business.</p>
+
+            <p>This is what I call expectations mean reversion. The crowd forms a view. That view gets stretched by narrative momentum, pushed further and further from the plausible range of actual outcomes. Then something reminds the crowd of reality. Not catastrophe. Just something less perfect than the story promised. And the forecast snaps back.</p>
+
+            <p>Expectations swing wider than reality because expectations are built out of confidence, not cash flow. And confidence, unlike cash flow, can change overnight. A single earnings miss, a management change, a shift in sector sentiment, and the forecast embedded in price moves dramatically before the underlying company has changed at all.</p>
+
+            <p>The most volatile thing in markets is not cash flow. It is confidence.</p>
+
+            <p>That is why prices can swing 30, 40, 50 percent on companies whose actual financial position barely moved. The business did not change by half. The crowd's forecast about the business did.</p>
+
+            <h2>Why Mispricings Persist</h2>
+
+            <p>If this is visible to anyone paying attention, why doesn't it get corrected quickly?</p>
+
+            <p>Because of <em>who</em> owns the market.</p>
+
+            <p>Roughly 55 to 60 percent of U.S. equities are held directly by institutions: mutual funds, ETFs, pension funds, insurers, hedge funds, and foreign institutions. The remaining 40 percent or so is labeled "households," but that label is misleading. Most household equity exposure sits inside retirement accounts, is implemented through funds, and is allocated or advised by financial professionals. Once you adjust for that, the share of capital that is both discretionary and independently reasoned is a sliver of the total.</p>
+
+            <p>Nearly all of the money in public markets is professionally managed. And nearly all of those professionals operate under the same constraint.</p>
+
+            <p>Looking wrong alone is more dangerous than being wrong together.</p>
+
+            <p>A manager who loses 15% alongside the market keeps their job. A manager who loses 5% while the market gains 20% may not. The absolute loss is smaller, but the relative loss is career-threatening. That single fact reshapes how the majority of capital in the world is deployed. Not toward long-term accuracy. Toward short-term defensibility. Toward consensus. Toward whatever the crowd already believes.</p>
+
+            <p>Mispricings persist not because people fail to see them, but because the overwhelming majority of capital is structurally unable to act on them. The few who can see the opportunity and also have the freedom to act on it represent a tiny fraction of the market. That is why mispricings can last for months, sometimes years, even when the gap between narrative and reality is wide open.</p>
+
+            <p>This is not stupidity. This is structure.</p>
+
+            <h2>What This Looks Like Right Now</h2>
+
+            <p>My friend Aidan told me he wanted more examples, so let me show you what this framework looks like applied to a real situation happening right now.</p>
+
+            <p>PayPal dropped roughly 20% on February 3rd, 2026. In a single day. The trigger was a Q4 earnings miss combined with the surprise departure of CEO Alex Chriss. The stock has continued drifting lower since, trading near $40 as I write this, down roughly 50% from where it was a year ago and nearly 90% from its all-time high.</p>
+
+            <p>The narrative is brutal. Lost its moat. Can't compete with Apple Pay and Google. CEO fired. Growth is over. The story writes itself.</p>
+
+            <p>Now let me walk through the three layers of value I described in the last post and see what is actually there.</p>
+
+            <p>The first layer is statistical value. This is where you shine a flashlight to find doors. PayPal currently trades at roughly 7 times forward earnings. Its free cash flow yield is above 10%. Price to book is under 3, compared to a five-year average near 6. By almost any screen-level metric, this company has not been this cheap since its earliest days as a public company. The flashlight found a door.</p>
+
+            <p>The second layer is economic value. This is the business itself. PayPal generated over $5.5 billion in free cash flow over the last twelve months. It holds roughly $14 billion in cash and short-term investments against about $11 billion in debt, leaving a positive net cash position. It has 438 million active accounts. Venmo grew total payment volume 14% last quarter. The company has announced partnerships with OpenAI, Google, and Microsoft that have not yet shown up in the numbers. It just initiated a dividend and is buying back shares aggressively, potentially retiring 15% of outstanding shares this year at current prices. Is the business perfect? No. Revenue growth is slow. Branded checkout faces real competition. But is this a company in danger of going away? That is very hard to argue when you are generating $5 billion a year in free cash.</p>
+
+            <p>The third layer is behavioral value. This is the why behind the mispricing. What story is the crowd telling? The story right now is that PayPal is a declining business in a competitive market with unstable leadership. That story is not entirely wrong. Competition is real. The CEO change adds uncertainty. But the question is not whether there are problems. The question is whether the problems are as severe as the price implies.</p>
+
+            <p>At 7 times earnings and a 10% free cash flow yield, the market is pricing PayPal as if growth is permanently over and the business will slowly deteriorate. That is a very specific forecast. Is it realistic?</p>
+
+            <p>This is exactly the framework at work. Statistical value found the door. Economic value told us the business is still generating enormous cash with a strong balance sheet and real assets. Behavioral value tells us the narrative is extremely negative, consensus is confidently pessimistic, and the structural constraints we just discussed make it very difficult for professional money to step in and buy right now.</p>
+
+            <p>Does this mean PayPal will go up? I have no idea. I think in probabilities, not certainties. The thesis could be wrong. Competition could accelerate. The new CEO could stumble. But the range of likely outcomes, weighed against what the price currently assumes, suggests the forecast is too extreme. That is asymmetry, not prophecy.</p>
+
+            <p>And the practical approach is the same as the principle. You do not bet the house on a single entry point. You scale in. You define your allocation ahead of time. You enter in pieces. You assume it might drift lower before anything improves, because narrative momentum does not stop just because you showed up. You only keep adding if the thesis holds, and you let lower prices improve your cost basis rather than shake your conviction. You stay solvent. Long only. No leverage. No forced selling.</p>
+
+            <h2>The Forecast Behind Every Price</h2>
+
+            <p>Price is a forecast, and that forecast is made mostly of stories, not spreadsheets. The stories change faster than the businesses do. The stories propagate through contagion, not analysis. The stories are held in place by structural incentives that have nothing to do with whether they are true. And when the stories shift, prices move violently in either direction, often long before reality has caught up.</p>
+
+            <p>When you look at a price, what do you see? A fact about the company, or a story the crowd is telling itself about the company?</p>
+
+            <p>I don't want to/never will make a single dime off of this blog. I do this purely for my own learning, and to help others learn more about markets and investing.</p>
+
+            <p>So share with a friend or family member if you enjoyed. Let's get more people knowledgeable about investing.</p>
+
+            <hr style="margin: 2rem 0;">
+            <section class="subscribe-section">
+                <div class="section-header">
+                    <h2 class="section-title">Stay in the Loop</h2>
+                    <p class="section-subtitle">Get an email when a new post goes live.</p>
+                </div>
+                <form class="subscribe-form" action="https://buttondown.com/api/emails/embed-subscribe/keaton" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/keaton', 'popupwindow')">
+                    <input type="hidden" name="embed" value="1">
+                    <input class="subscribe-input" type="email" name="email" placeholder="Enter your email" required>
+                    <button class="subscribe-button" type="submit">Notify Me</button>
+                </form>
+                <p class="subscribe-note">No spam. Unsubscribe anytime.</p>
+            </section>
+        `
     }
 ];
 
