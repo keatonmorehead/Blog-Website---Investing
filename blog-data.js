@@ -401,6 +401,115 @@ const blogs = [
                 <p class="subscribe-note">No spam. Unsubscribe anytime.</p>
             </section>
         `
+    },
+    {
+        id: 'post-4',
+        title: 'Blog 4: The Story That\u2019s Cracking',
+        date: '2026-03-30',
+        preview: 'The dominant market narrative \u2014 AI changes everything, spend now, profit later \u2014 is beginning to crack. This post applies our framework to what\u2019s happening right now: stretched valuations, a shifting macro environment, and a rotation into the companies the crowd has been ignoring.',
+        content: `
+            <section class="subscribe-section" style="margin-bottom: 2rem;">
+                <div class="section-header">
+                    <h2 class="section-title">Stay in the Loop</h2>
+                    <p class="section-subtitle">Get an email when a new post goes live.</p>
+                </div>
+                <form class="subscribe-form" action="https://buttondown.com/api/emails/embed-subscribe/keaton" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/keaton', 'popupwindow')">
+                    <input type="hidden" name="embed" value="1">
+                    <input class="subscribe-input" type="email" name="email" placeholder="Enter your email" required>
+                    <button class="subscribe-button" type="submit">Notify Me</button>
+                </form>
+                <p class="subscribe-note">No spam. Unsubscribe anytime.</p>
+            </section>
+
+            <p class="personal-label"><strong>PERSONAL SECTION \u2014 SKIP IF YOU WANT TO</strong></p>
+
+            <p>What\u2019s up everyone. No major personal updates. Been working on that app a lot, getting super close to having it on testflight for everyone to test. Last day of work is actually in 2 days, so I\u2019ll have the entire month of April to go crazy on it with all of your feedback and hopefully have it on the app store before I head to Europe. Besides that I plan to hang out a bunch with friends and capture moments from this special time of our lives.</p>
+
+            <p>Crazy my time here in Utah is basically done. One month left. It\u2019s starting to hit me, and it\u2019s pretty overwhelming. Everyone out here I\u2019ve grown close to this last year in particular makes thinking about a month from now nearly unbearable. So I guess that\u2019s a good thing. I guess that\u2019s to say thanks to all the homies. And I guess that\u2019s to say it ain\u2019t over until it\u2019s over, so let\u2019s make a lot of stupid decisions for one final month. Cheers.</p>
+
+            <hr style="margin: 2rem 0;">
+
+            <p>Over the last three posts, we built a framework: price is a forecast, not a fact. That forecast is made mostly of stories, not spreadsheets. And when those stories stretch too far from reality, expectations mean-revert, often violently, creating the mispricings that value investors are built to exploit. Today I want to apply that framework to what is happening right now, because right now, in real time, we are watching one of the most dominant market narratives of the last three years begin to crack.</p>
+
+            <h2>The Story the Market Has Been Telling Itself</h2>
+
+            <p>Every market environment has a dominant narrative. In 2005, housing always goes up. In 1999, the internet makes earnings obsolete as a measure of value. These stories are never entirely wrong. The problem is never the kernel of truth. The problem is what the story becomes once it detaches from that kernel and starts feeding on its own momentum.</p>
+
+            <p>The dominant story of the last three years has three layers. First, that artificial intelligence will transform every industry and the companies building AI infrastructure are the most important investments of a generation. Second, that the American economy is exceptionally resilient and interest rates will come down steadily. Third, American exceptionalism \u2014 there is simply no better place to invest than US equities, particularly US technology. Each layer contains truth. The question is whether the price already reflects the story and then some.</p>
+
+            <p>The numbers suggest it does. Amazon, Alphabet, Meta, and Microsoft spent nearly $300 billion on capital expenditures in 2025, mostly on AI infrastructure. AI investment is projected to hit 1.6% of US GDP in 2026 \u2014 one of the largest concentrated capital booms in modern history. OpenAI generated roughly $12 billion in revenue in 2025 against an $8 billion operating loss, with losses projected to double to $17 billion in 2026 and again to $35 billion in 2027. Its valuation: approximately $750 billion. Meanwhile, an NBER study from February 2026 found that 90% of firms report no meaningful impact of AI on workplace productivity.</p>
+
+            <p>Ninety percent, no productivity impact, while the largest technology companies pour over a trillion dollars into infrastructure funded increasingly by debt and circular financing. The hyperscalers are trapped in a prisoner\u2019s dilemma: if they pull back and a competitor doesn\u2019t, they risk irrelevance. Google CEO Sundar Pichai has said \u201Cthe risk of under-investing is dramatically greater than the risk of over-investing.\u201D That logic guarantees collective over-investment. It is the same logic that drove telecom companies to lay millions of miles of dark fiber in the late 1990s.</p>
+
+            <p>Rajiv Jain, Chairman and CIO of GQG Partners, a fund I deeply respect, put it bluntly: <strong><em>\u201CThis is a narrative-driven market where basic fundamentals are being ignored and replaced with buzz words that are normalizing valuations completely uncorrelated with earnings.\u201D</em></strong> He points to SpaceX\u2019s $800 billion valuation against $15 billion in revenue. In normal markets, such math does not hold up. In narrative-driven markets, it doesn\u2019t need to \u2014 for a while.</p>
+
+            <h2>The Technology Is Always Different. The Behavior Never Is.</h2>
+
+            <p>Is it different this time? The answer is always the same. Yes and no. Yes, the technology is different. No, the human behavior is not. As one investor put it, the technology at the core of the mania is different every time; what doesn\u2019t change is human emotion \u2014 the fear of missing out and then the fear of loss, in that order.</p>
+
+            <p>The 1840s British railway mania saw Parliament approve 263 Acts for new railway companies proposing 9,500 miles of track. Shopkeepers mortgaged their homes to buy railway shares. The technology was real \u2014 railways shrank the London-Glasgow journey from days to hours. The infrastructure that was overbuilt became the backbone of the Industrial Revolution. But the investors who bought at peak enthusiasm were devastated. The same pattern played out with automobiles, radio, transistor electronics, personal computers, and the internet. Every single one of these technologies changed the world. Every single one created investment bubbles where valuations detached from cash flows.</p>
+
+            <p>After the dot-com bust, the capital investors lost evaporated completely, but the fiber optic cable laid during the boom remained in the ground. That overbuilt infrastructure went on to enable cloud computing, streaming, and the very AI revolution we\u2019re discussing. The technology mattered enormously. It just did not matter on the timeline, or at the prices, that investors paid for. The same will almost certainly be true of AI. The data centers being built today will power applications we cannot yet imagine. That does not mean the stocks funding them at these valuations will be good investments.</p>
+
+            <p>This is the Ray Dalio insight from Blog 1 in action: <strong><em>\u201CMost investors tend to identify what has been a great investment as great, and they don\u2019t pay enough attention to its pricing, even though its pricing is the most important thing.\u201D</em></strong> Revolutionary technology attracting capital in excess of what can be profitably deployed is not a contradiction. It is the historical norm. GQG argues in a separate piece titled \u201CDotcom on Steroids\u201D that the current AI boom could be worse than the dot-com era because its scale relative to the economy is far greater. AI-related stocks have accounted for 75% of S&amp;P 500 returns, 80% of earnings growth, and 90% of capital spending growth since ChatGPT launched. The five largest companies represent roughly 30% of the entire index. Even Sam Altman has admitted investors are overexcited. When the person building the thing tells you the market for the thing is overheated, it is worth pausing.</p>
+
+            <h2>What Is Cracking the Story</h2>
+
+            <p>The AI narrative was already showing strain. DeepSeek demonstrated in January 2025 that frontier AI capabilities could be achieved at a fraction of expected cost, briefly wiping hundreds of billions from tech stocks. The \u201CSaaSpocalypse\u201D hit software companies like Salesforce and ServiceNow for losses exceeding 30% on fears that AI could replace traditional software business models. These were tremors.</p>
+
+            <p>Then the macro environment shifted. On February 28th, 2026, the US-Iran conflict began, cutting off roughly 20% of global crude supply and sending Brent above $110. Oil is not just an energy price \u2014 it is a tax on everything. It squeezes consumers, raises input costs, and forces the Fed into an impossible position: cut rates to support growth or hold rates to fight the inflation that energy prices are generating. Traders pushed the probability of a rate hike by year-end above 50% in March, a dramatic reversal from the consensus expectation of continued cuts. Moody\u2019s recession probability model hit 49% based on February data \u2014 before the Iran conflict\u2019s full impact. The S&amp;P 500 sits at roughly 6,370, down 7% year to date. The Nasdaq is in correction territory, nearly 13% off its October high.</p>
+
+            <p>The AI story required a cooperative macro environment to sustain it \u2014 low rates, stable energy, no geopolitical disruptions. That environment no longer exists. The story hasn\u2019t been disproven. It has encountered conditions that make the perfection embedded in prices less plausible. And as we discussed in previous blogs: the market doesn\u2019t need bad news to reprice. It only needs less-than-perfect news. When you pay for a miracle, reality is the disappointment.</p>
+
+            <h2>The Weighing Machine Wakes Up</h2>
+
+            <p>Graham\u2019s metaphor from Blog 2 \u2014 voting machine in the short run, weighing machine in the long run \u2014 is playing out in real time. In February, utilities surged 10% while technology, financials, and consumer discretionary each fell roughly 4%. Since October 2025, gold, biotech, energy, and materials have led gains while Nvidia, Tesla, Meta, and Microsoft have lagged sharply. Value stocks have outperformed growth in every recent period of AI skepticism: Q3 2024, Q1 2025, Q4 2025, and now Q1 2026.</p>
+
+            <p>This is capital moving from stories to substance. From narratives to cash flows. The structural reasons from Blog 3 explain why it is happening slowly: professional managers controlling 55\u201360% of US equities face career risk for deviating from the benchmark. GQG\u2019s Jain writes explicitly about this \u2014 their decision to avoid AI stocks cost significant relative performance in 2025, even though the math doesn\u2019t support the valuations. These structural constraints mean that even when the case for rotation is clear, the majority of capital cannot act on it. That is why mispricings persist and rotations take time.</p>
+
+            <h2>You Have Not Missed It</h2>
+
+            <p>If value is already outperforming, have you missed the move? Almost certainly not. Sector rotations typically last two to two and a half years, aligning with broader business cycle phases. The average US business cycle since 1945 has lasted about six years. Market rotations also tend to precede economic changes by three to six months \u2014 the rotation we are seeing reflects what the market believes is coming, not what has already happened. If macro headwinds intensify, this has a long way to run.</p>
+
+            <p>History supports this. After the dot-com peak in 2000, value outperformed growth for roughly seven years. In 2022, the rotation into energy and value lasted well over a year. The behavioral dynamics \u2014 career risk, herding, loss aversion, anchoring \u2014 mean the crowd changes its story slowly, creating sustained momentum in rotational flows. Think of it in physics terms: trillions of dollars allocated to AI and growth stocks over three years do not reverse overnight. Every index fund rebalance, every quarterly portfolio review, every committee meeting where the discussion shifts from \u201Cshould we add more tech?\u201D to \u201Cshould we reduce tech?\u201D pushes the rotation forward. The process is measured in quarters and years, not days and weeks.</p>
+
+            <h2>Where the Next Story Is Forming</h2>
+
+            <p>Money is not simply flowing into sectors as a whole. It is flowing toward specific characteristics: strong and consistent free cash flow, stable or growing earnings that do not depend on an optimistic macro scenario, healthy balance sheets, reasonable valuations, and businesses that sell things people need regardless of whether AI fulfills its promises or the economy slows. Companies that do not require a miracle to justify their stock price.</p>
+
+            <p>These characteristics are most concentrated in utilities, consumer staples, healthcare, and insurance \u2014 sectors trading at historically low relative P/E ratios despite delivering high single-digit earnings growth and 3\u20134% dividend yields. GQG argues these can deliver low double-digit total returns with significantly lower risk than the broader market. When you can get similar returns for lower risk, the math favors the boring companies.</p>
+
+            <p>But the rotation is not limited to traditional defensives. Energy benefits from geopolitical tailwinds and structural underinvestment in supply. Natural resource equities and real assets have been outperforming the Nasdaq as beneficiaries of AI infrastructure demand (data centers need enormous amounts of power and raw materials), energy transitions, and manufacturing reshoring. International markets also deserve attention \u2014 the Euro Stoxx 50 trades at roughly 14 times earnings with a 4% dividend yield versus the S&amp;P 500 at over 20 times. Any unwinding of the \u201CAmerican exceptionalism\u201D concentration trade has a long runway.</p>
+
+            <p>The broader point: for the first time in years, there are compelling places to put capital outside of the handful of mega-cap tech stocks that have dominated returns. The extreme concentration of the last three years created a mirror image of opportunity in what was neglected. That is expectations mean reversion at work. I am still doing deeper research into individual companies and will share specific names when I have real conviction. That is coming in future blogs.</p>
+
+            <h2>The Hardest Part</h2>
+
+            <p>The hardest part is not intellectual. It is emotional. Right now the dominant story is still AI. Turn on CNBC and you hear about the next trillion-dollar opportunity. Open social media and people are talking about which AI stock to buy on the dip. The alternative \u2014 buying a water utility or a tobacco company or an insurance conglomerate \u2014 feels boring, feels wrong, feels like giving up on the future. But that discomfort is the behavioral gap we are trying to exploit. If it felt good, everyone would do it, and there would be no excess returns to capture.</p>
+
+            <p>GQG\u2019s Jain closes his letter noting that for the first time in years, his team is finding \u201Cplenty of opportunities to own companies with the potential to achieve double-digit compounding in fairly mundane sectors.\u201D Mundane. That is the word. Mundane is where the value is forming while everyone else watches the AI spectacle. The weighing machine does not care about spectacle. It cares about cash flows. And over time, it always wins.</p>
+
+            <p>The story driving markets right now is cracking. Not because AI is fake \u2014 it isn\u2019t. Not because the technology doesn\u2019t matter \u2014 it does. But because the prices reflecting that story have stretched beyond what the cash flows can support, and the macro environment that enabled the stretch is changing. When the story shifts, the companies with real earnings, real balance sheets, and real competitive positions will be the ones still standing. Finding them now, before the crowd arrives, is the entire game.</p>
+
+            <hr style="margin: 2rem 0;">
+
+            <p>I don\u2019t want to and never will make a single dime off of this blog. I do this purely for my own learning, and to help others learn more about markets and investing.</p>
+
+            <p>So share with a friend or family member if you enjoyed. Let\u2019s get more people knowledgeable about investing.</p>
+
+            <hr style="margin: 2rem 0;">
+            <section class="subscribe-section">
+                <div class="section-header">
+                    <h2 class="section-title">Stay in the Loop</h2>
+                    <p class="section-subtitle">Get an email when a new post goes live.</p>
+                </div>
+                <form class="subscribe-form" action="https://buttondown.com/api/emails/embed-subscribe/keaton" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/keaton', 'popupwindow')">
+                    <input type="hidden" name="embed" value="1">
+                    <input class="subscribe-input" type="email" name="email" placeholder="Enter your email" required>
+                    <button class="subscribe-button" type="submit">Notify Me</button>
+                </form>
+                <p class="subscribe-note">No spam. Unsubscribe anytime.</p>
+            </section>
+        `
     }
 ];
-
