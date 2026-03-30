@@ -408,19 +408,6 @@ const blogs = [
         date: '2026-03-30',
         preview: 'The dominant market narrative \u2014 AI changes everything, spend now, profit later \u2014 is beginning to crack. This post applies our framework to what\u2019s happening right now: stretched valuations, a shifting macro environment, and a rotation into the companies the crowd has been ignoring.',
         content: `
-            <section class="subscribe-section" style="margin-bottom: 2rem;">
-                <div class="section-header">
-                    <h2 class="section-title">Stay in the Loop</h2>
-                    <p class="section-subtitle">Get an email when a new post goes live.</p>
-                </div>
-                <form class="subscribe-form" action="https://buttondown.com/api/emails/embed-subscribe/keaton" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/keaton', 'popupwindow')">
-                    <input type="hidden" name="embed" value="1">
-                    <input class="subscribe-input" type="email" name="email" placeholder="Enter your email" required>
-                    <button class="subscribe-button" type="submit">Notify Me</button>
-                </form>
-                <p class="subscribe-note">No spam. Unsubscribe anytime.</p>
-            </section>
-
             <p class="personal-label"><strong>PERSONAL SECTION \u2014 SKIP IF YOU WANT TO</strong></p>
 
             <p>What\u2019s up everyone. No major personal updates. Been working on that app a lot, getting super close to having it on testflight for everyone to test. Last day of work is actually in 2 days, so I\u2019ll have the entire month of April to go crazy on it with all of your feedback and hopefully have it on the app store before I head to Europe. Besides that I plan to hang out a bunch with friends and capture moments from this special time of our lives.</p>
