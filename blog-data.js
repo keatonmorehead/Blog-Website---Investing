@@ -408,14 +408,6 @@ const blogs = [
         date: '2026-03-30',
         preview: 'The dominant market narrative \u2014 AI changes everything, spend now, profit later \u2014 is beginning to crack. This post applies our framework to what\u2019s happening right now: stretched valuations, a shifting macro environment, and a rotation into the companies the crowd has been ignoring.',
         content: `
-            <p class="personal-label"><strong>PERSONAL SECTION \u2014 SKIP IF YOU WANT TO</strong></p>
-
-            <p>What\u2019s up everyone. No major personal updates. Been working on that app a lot, getting super close to having it on testflight for everyone to test. Last day of work is actually in 2 days, so I\u2019ll have the entire month of April to go crazy on it with all of your feedback and hopefully have it on the app store before I head to Europe. Besides that I plan to hang out a bunch with friends and capture moments from this special time of our lives.</p>
-
-            <p>Crazy my time here in Utah is basically done. One month left. It\u2019s starting to hit me, and it\u2019s pretty overwhelming. Everyone out here I\u2019ve grown close to this last year in particular makes thinking about a month from now nearly unbearable. So I guess that\u2019s a good thing. I guess that\u2019s to say thanks to all the homies. And I guess that\u2019s to say it ain\u2019t over until it\u2019s over, so let\u2019s make a lot of stupid decisions for one final month. Cheers.</p>
-
-            <hr style="margin: 2rem 0;">
-
             <p>Over the last three posts, we built a framework: price is a forecast, not a fact. That forecast is made mostly of stories, not spreadsheets. And when those stories stretch too far from reality, expectations mean-revert, often violently, creating the mispricings that value investors are built to exploit. Today I want to apply that framework to what is happening right now, because right now, in real time, we are watching one of the most dominant market narratives of the last three years begin to crack.</p>
 
             <h2>The Story the Market Has Been Telling Itself</h2>
