@@ -490,5 +490,120 @@ const blogs = [
                 <p class="subscribe-note">No spam. Unsubscribe anytime.</p>
             </section>
         `
+    },
+    {
+        id: 'post-5',
+        title: 'Blog 5: Who Actually Buys a $2 Trillion IPO?',
+        date: '2026-04-07',
+        preview: 'SpaceX just filed for what will be the biggest IPO in history. This post walks through the plumbing: who actually buys a deal this size, what gets sold to fund it, what the $75 billion raise is really for, and what happens to your 401(k) if SpaceX joins the S&P 500.',
+        content: `
+            <p>On April 1, 2026, SpaceX confidentially filed to go public. Not an April Fool\u2019s joke.</p>
+            <p>The numbers are a little hard to wrap your head around, so here they are slowly.</p>
+            <p>SpaceX is targeting a valuation of somewhere between $1.75 trillion and $2 trillion. They\u2019re trying to raise up to $75 billion in the offering. That raise alone would be more than three times the size of the largest US IPO ever (Alibaba, $22 billion in 2014) and larger than Saudi Aramco\u2019s $26 billion deal in 2019, which currently holds the global record. At $2 trillion, SpaceX on day one would be worth more than Tesla, more than Meta, and would instantly land as one of the six most valuable public companies in the world.</p>
+            <p>And here\u2019s the kicker. SpaceX does about $16 billion a year in revenue. At $2 trillion, that\u2019s roughly 130 times sales. For comparison, Nvidia (the hottest stock of the last three years) trades around 25 times sales. Apple trades around 9. The only S&P 500 company anywhere close to SpaceX\u2019s multiple is Palantir, and even Palantir is lower.</p>
+            <p>I looked at all of this and had a lot of questions. Six of them, actually. So I started chasing them. Here\u2019s what I found.</p>
+
+            <h2>Question 1: Where does $75 billion even come from?</h2>
+            <p>When somebody tells you a company is raising $75 billion, it\u2019s easy to picture that money as already existing somewhere, like it\u2019s just sitting in a vault waiting to get spent. It isn\u2019t. Seventy-five billion dollars is more than the entire annual GDP of a country like Panama. For that much money to flow into one deal in one month, it has to come from somewhere. And that somewhere matters, because whoever is giving up that cash is the first and quietest part of this whole story.</p>
+            <p>Mega-IPOs don\u2019t work the way most people assume. The picture most people have is that a company puts stock up for sale and then \u201Cthe public\u201D buys it. That\u2019s not really how it works for deals this big. A $2 trillion IPO happens in waves, and most retail investors (meaning you and me, buying stocks through an app like Robinhood or Schwab) only show up in the last wave. We are not early. We are late.</p>
+            <p>Here are the four waves, in order.</p>
+            <p><strong>Wave 1: Sovereign wealth funds and anchor investors.</strong> These are the really big, really patient pools of money, usually owned by governments. They get first look and the best price. In SpaceX\u2019s case, Saudi Arabia\u2019s Public Investment Fund (PIF, the Saudi government\u2019s $900 billion investment arm) is reportedly in talks to commit around $5 billion as an \u201Canchor\u201D investor. An anchor is basically a big name that commits early to make the deal look legitimate and attract others. PIF already owns a little under 1% of SpaceX privately, and they\u2019re mostly trying to protect that stake from getting diluted when new shares get issued. This money isn\u2019t really coming out of \u201Cthe stock market\u201D at all. It\u2019s sovereign oil revenue being redeployed.</p>
+            <p><strong>Wave 2: The banks\u2019 richest clients.</strong> SpaceX has a long list of investment banks helping run the deal. Morgan Stanley is leading, Goldman Sachs is handling Middle Eastern sovereigns, Bank of America is distributing in the US, and there are four or five others spread across Asia and Europe. Each of those banks has a private wealth arm that serves ultra-wealthy clients: hedge fund managers, family offices, people with tens of millions of dollars to invest. Reuters reported plainly this week that \u201Ca meaningful portion of shares will be allocated to high-net-worth individual clients of the underwriting banks.\u201D If that\u2019s not you, you\u2019re not in this wave either. This is where some of the money actually does start coming from other stocks, because those clients sell existing holdings to make room.</p>
+            <p><strong>Wave 3: Post-listing retail.</strong> This is the wave most people reading this will actually participate in. SpaceX starts trading publicly, probably in June. The stock opens at whatever price the market clears, which after a deal this hyped will almost certainly be higher than the price insiders paid in Waves 1 and 2. You open your brokerage app, you tap buy, you pay today\u2019s price. Retail is the buyer of last resort in mega-IPOs, almost by design.</p>
+            <p><strong>Wave 4: Index funds, eventually.</strong> This is the wild one, and it gets its own question below.</p>
+            <p>So where does the money come from? Some of it is genuinely new (sovereign capital, foreign investors, cash sitting in money market funds earning interest). But a real chunk of it is rotation. Which means somebody, somewhere, is selling something else to fund their SpaceX bet. Which brings us to the next question.</p>
+
+            <h2>Question 2: What actually gets sold to buy this?</h2>
+            <p>The most obvious answer is Tesla. Tesla and SpaceX share almost the exact same investor, the person who believes in Elon Musk. If you\u2019ve been holding Tesla for years because you bought into his vision, and now Musk is finally letting you buy the space and AI company you\u2019ve been waiting on for a decade, you don\u2019t need new money to buy it. You just sell some Tesla. That\u2019s a pretty rational move if you think SpaceX is the better bet.</p>
+            <p>This isn\u2019t a prediction. It\u2019s already showing up. Tesla is down about 13% on the year and broke below $370 this week, and major analysts have started openly calling for a rotation from Tesla into SpaceX. Here\u2019s the weirder detail though. Tesla has already received regulatory approval to convert its existing stake in xAI into SpaceX shares after the IPO. So Tesla shareholders are becoming indirect SpaceX shareholders automatically, whether they signed up for that or not.</p>
+            <p>Tesla isn\u2019t the only thing getting sold. There\u2019s a whole category I\u2019d call \u201CSpaceX proxy\u201D stocks. Smaller public space companies like Rocket Lab, AST SpaceMobile, and Iridium. People have been buying these for years partly because they couldn\u2019t buy SpaceX. Once the real thing exists and is tradeable, those proxies lose a big part of their reason for existing at the premium valuations they currently have.</p>
+            <p>And then there\u2019s the quieter rotation. Big growth names like Meta, Google, and Amazon. Professional portfolio managers don\u2019t have unlimited money. If they want to add a 3% SpaceX position to their fund, they have to trim 3% of something else. That something else is usually whatever\u2019s biggest and most liquid, which means the megacap growth stocks take a small haircut to make room. None of this is dramatic on any single day. Over the course of a year, it adds up.</p>
+
+            <h2>Question 3: Wait, what is SpaceX actually raising $75 billion for?</h2>
+            <p>This is the question I think almost nobody is asking in plain English, and it\u2019s the one that made me rethink the whole story.</p>
+            <p>Normal companies do IPOs because they need money to grow. A young company going public usually doesn\u2019t have the cash to build factories, hire engineers, and expand, so they sell stock to raise it. That\u2019s the basic textbook version of why IPOs exist.</p>
+            <p>Now look at SpaceX:</p>
+            <ul>
+                <li>Starlink, the satellite internet business, is profitable and generates billions in cash</li>
+                <li>The rocket launch business is profitable</li>
+                <li>NASA is only about 5% of total revenue, so they\u2019re not dependent on government contracts</li>
+                <li>Company-wide EBITDA (basically profit before debt and taxes) is reportedly around $8 billion a year</li>
+            </ul>
+            <p>A company generating $8 billion a year does not need $75 billion of fresh cash to fly rockets.</p>
+            <p>So where does the money actually go? The honest answer, based on what\u2019s been reported, is four buckets:</p>
+            <ul>
+                <li><strong>xAI\u2019s cash burn.</strong> Two months before filing to go public, SpaceX merged with xAI, Musk\u2019s AI company that makes the Grok chatbot and owns X (formerly Twitter). xAI is losing billions a year trying to compete with OpenAI and Anthropic, and that burn is now on SpaceX\u2019s balance sheet.</li>
+                <li><strong>Terafab.</strong> A $20 to $25 billion chip factory joint venture between Tesla, SpaceX, and xAI, announced in March. The goal is to make the chips for Musk\u2019s planned orbital data centers. Yes, literal data centers in space.</li>
+                <li><strong>Those orbital data centers themselves</strong>, which are, you know, a science project.</li>
+                <li><strong>Insider liquidity.</strong> A big chunk of any deal this size is early employees and investors finally cashing out after holding private stock for a decade or more.</li>
+            </ul>
+            <p>So when you tap buy on SpaceX at the IPO, it\u2019s worth being clear about what you\u2019re actually funding. You\u2019re not really funding rocket launches. Rocket launches already pay for themselves. You\u2019re mostly funding a money-losing AI company, an unbuilt chip factory, a space data center moonshot, and early employees cashing out. That\u2019s a very different story than \u201Cinvest in the future of space.\u201D</p>
+            <p>To be fair, some of those bets might pay off enormously. Musk has a real track record of making bets like this work. But it\u2019s a different kind of risk than buying Starlink.</p>
+
+            <h2>Question 4: What happens when this thing joins the S&P 500? (The wild one.)</h2>
+            <p>Quick background for anyone who\u2019s rusty. The S&P 500 is the big US stock index, 500 of the largest American companies, weighted by size. It\u2019s the index that \u201Cthe market\u201D usually refers to when people say \u201Cthe market was up today.\u201D It\u2019s also the single most important index in the world, because trillions of dollars of passive money sits in funds that just automatically buy whatever\u2019s in it. If you have a 401(k), you almost certainly own an S&P 500 index fund without thinking about it. Most of America does.</p>
+            <p>Here\u2019s the key thing to understand. When a new company gets added to the S&P 500, every index fund in the world is forced to buy it. Not optional. Mechanical. The fund\u2019s whole job is to own the index, so if the index changes, the fund has to change with it. That forced buying can be enormous.</p>
+            <p>Normally, a newly public company has to wait 6 to 12 months after its IPO to be considered for inclusion (that\u2019s called \u201Cseasoning\u201D), and it also has to show it\u2019s making money on an accounting basis (positive earnings in the most recent quarter and over the trailing year). That\u2019s where things get interesting for SpaceX, because it\u2019s not clear SpaceX actually qualifies.</p>
+            <p>Remember how I said SpaceX generates $8 billion in EBITDA a year? EBITDA is profit before you count depreciation on big expensive things like rockets and satellites. Once you factor in that depreciation, SpaceX might not be profitable on the specific accounting measure that the S&P uses. Nobody outside the confidential filing knows for sure yet.</p>
+            <p>And here\u2019s where it gets wild.</p>
+            <p>S&P Global, the organization that runs the S&P 500, reportedly started evaluating changes to its inclusion rules in March 2026, specifically in anticipation of the SpaceX IPO. Index operators do not float rule changes for hypothetical companies. They float rule changes when they\u2019re preparing for something specific. The committee that decides what counts as a qualified S&P 500 company is rewriting its rulebook to fit around one IPO. That is not a normal thing.</p>
+            <p>If SpaceX ends up in the index, the math is big. At a $2 trillion valuation, SpaceX would be roughly 3.3% of the S&P 500, making it one of the top five or six largest weights, sitting between Amazon and Broadcom on today\u2019s rankings. There\u2019s about $7 to $9 trillion of passive money tracking the S&P 500. Rough math says something like $230 to $300 billion of forced buying would land on the stock from index funds mechanically trying to match the new index.</p>
+            <p>Where does that $230 to $300 billion come from? From every other stock in the index, proportionally. Index funds can\u2019t print money. They rebalance. Every current holding, every Apple, every Microsoft, every Johnson & Johnson, gets trimmed slightly to make room.</p>
+            <p>The punchline. If you own any S&P 500 index fund (which most Americans do through their retirement accounts), you will end up owning SpaceX whether you signed up for it or not, and you will end up owning slightly less of everything else to pay for it. You don\u2019t get a vote.</p>
+            <p>That\u2019s not necessarily good or bad. It\u2019s just worth knowing.</p>
+
+            <h2>Question 5: Has anything like this happened before?</h2>
+            <p>Sort of. Not at this exact scale, but the general shape (mega-IPO, monster hype, stretched valuation, breathless coverage) has happened a few times. The pattern is surprisingly consistent and worth knowing.</p>
+            <p>Short version first, before I dig into the best comparison:</p>
+            <ul>
+                <li><strong>Facebook (now Meta) in 2012.</strong> IPO\u2019d at $38 a share. Fell to $17.55 within four months, about a 54% drop. Took 15 months to recover to the IPO price. Then, obviously, became one of the best performing stocks of the last decade. Lesson: a business can be great and still be a terrible day-one investment if the entry price is too high.</li>
+                <li><strong>Alibaba in 2014.</strong> Popped 38% on day one. Grew the underlying business dramatically over the next decade. And yet, ten years later, the stock is roughly flat in dollar terms. Lesson: the business doing well and the stock doing well are two different things when you overpay at the beginning.</li>
+            </ul>
+            <p>Both are useful. But the IPO that rhymes with SpaceX most closely is Saudi Aramco in 2019, and it\u2019s worth slowing down for.</p>
+            <p>Saudi Arabia wanted to take Aramco, the state oil company and arguably the most profitable company on earth, public at a $2 trillion valuation. That exact number. Same as SpaceX today. It was supposed to be the largest IPO in history, listing in New York, London, and Riyadh all at once.</p>
+            <p>But when the big international banks started sounding out global investors, the response was cold. Institutions in New York and London looked at Aramco and said the $2 trillion number didn\u2019t make sense. Most of them pegged fair value closer to $1.1 to $1.7 trillion. Instead of accepting a lower valuation, the Saudis scaled the whole deal back to a local listing on the Saudi stock exchange, Tadawul, and started filling demand with money that was, let\u2019s say, not quite arms-length.</p>
+            <p>Gulf sovereign wealth funds from Saudi Arabia\u2019s allies (Kuwait, UAE) quietly committed billions. Saudi banks literally offered regular Saudi citizens cheap loans to buy Aramco shares. \u201CPatriotic investing,\u201D they called it. The deal got done, Aramco briefly hit $2 trillion on day two of trading, and the Saudi government got to claim a record. But the phrase everyone used at the time (and I mean everyone, including the Financial Times and the Wall Street Journal) was \u201Cmanufactured demand.\u201D A lot of the buying wasn\u2019t organic institutional conviction. It was adjacent capital doing a favor.</p>
+            <p>And here\u2019s the thing. Aramco the company has been fine. It\u2019s still massively profitable. It still dominates global oil. But the stock has basically gone nowhere for the better part of six years. Because the entry price was the entry price, and no amount of quality business makes up for paying too much at the beginning.</p>
+            <p>Why does this rhyme with SpaceX?</p>
+            <ul>
+                <li>Same targeted valuation ($2 trillion)</li>
+                <li>Same heavy reliance on sovereign wealth anchors (Saudi PIF is already in talks for $5 billion, and other sovereigns will almost certainly follow)</li>
+                <li>Same dynamic where the banks\u2019 private-wealth clients get the good allocation and retail gets the leftovers</li>
+                <li>Same story-driven pitch. Aramco was \u201Cthe world\u2019s most profitable company, forever.\u201D SpaceX is \u201Cthe future of space, AI, and orbital data\u201D</li>
+                <li>Same first-day-pop mechanics setting up the post-IPO trade</li>
+            </ul>
+
+            <h2>Question 6: So what is the $2 trillion actually made of?</h2>
+            <p>I\u2019ve been circling this whole post around one question I want to leave you with.</p>
+            <p>$16 billion of revenue cannot mathematically support a $2 trillion valuation. There is no spreadsheet on earth where the fundamentals justify the price. The gap between \u201Cwhat the company earns\u201D and \u201Cwhat investors are paying\u201D has to be filled with something. And that something is story.</p>
+            <p>Here\u2019s what I keep coming back to. Every wave of buyers I described at the top is buying the exact same stock for completely different reasons.</p>
+            <p>The sovereign wealth funds are buying a geopolitical asset. A seat at the table of whatever Musk builds next, and a strategic hedge against the American tech stack. The banks\u2019 rich private clients are buying status and allocation, the right to say they were in the biggest IPO in history and the option to flip it if it pops. The index funds, if and when SpaceX joins the S&P 500, will buy because a rule tells them to. They don\u2019t get a choice. And retail will buy because the story is great, because Musk is Musk, because Mars is Mars, because Starlink is already in half the RVs in America, and because everyone they respect seems to be in already.</p>
+            <p>Only one of those reasons is \u201CI did the math and the price makes sense.\u201D And it\u2019s none of them.</p>
+            <p>That isn\u2019t necessarily a reason to stay away. Narrative-driven bets can pay off. Musk has made people a lot of money over the last fifteen years, and maybe he does it again. But it\u2019s worth being honest with yourself about what you\u2019re actually doing when you hit buy. You\u2019re not buying rockets. You\u2019re buying a story, one that has to keep getting more impressive to keep justifying its price.</p>
+            <p>When you look at a stock price, what do you actually see? A fact about the company, or a story the crowd is telling itself about the company?</p>
+            <p>I really don\u2019t know whether SpaceX goes up or down from here. Nobody does. The point of this whole post wasn\u2019t to predict. It was to show you the plumbing. Who buys, why, where the money comes from, what the historical pattern looks like, and what the price actually has to be made of. Once you can see the plumbing, you can make your own call.</p>
+            <p>I don\u2019t make a dime off this blog and I never will. I do this because I love this stuff and want more of my friends to understand how markets actually work. If any of this was useful, share it with a friend, and subscribe below so I don\u2019t have to text all of you apes every week.</p>
+            <p>See you next Sunday. Cheers.</p>
+
+            <hr style="margin: 2rem 0;">
+            <section class="post-footer">
+                <div class="post-footer-col post-footer-subscribe">
+                    <h3 class="section-title">Stay in the Loop</h3>
+                    <p class="section-subtitle">Get an email when a new post goes live.</p>
+                    <form class="subscribe-form" action="https://buttondown.com/api/emails/embed-subscribe/keaton" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/keaton', 'popupwindow')">
+                        <input type="hidden" name="embed" value="1">
+                        <input class="subscribe-input" type="email" name="email" placeholder="Enter your email" required>
+                        <button class="subscribe-button" type="submit">Notify Me</button>
+                    </form>
+                    <p class="subscribe-note">No spam. Unsubscribe anytime.</p>
+                </div>
+                <div class="post-footer-col post-footer-share">
+                    <h3 class="section-title">Share This Post</h3>
+                    <p class="section-subtitle">Help spread the word.</p>
+                    <button class="share-button" type="button" onclick="(function(b){navigator.clipboard.writeText(window.location.href).then(function(){var o=b.innerHTML;b.innerHTML='&#10003; Copied to clipboard';b.classList.add('copied');setTimeout(function(){b.innerHTML=o;b.classList.remove('copied')},2000)})})(this)">Copy Link</button>
+                    <p class="subscribe-note">One click to share.</p>
+                </div>
+            </section>
+        `
     }
 ];
