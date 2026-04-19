@@ -605,5 +605,177 @@ const blogs = [
                 </div>
             </section>
         `
+    },
+
+    {
+        id: 'post-6',
+        title: 'Blog 6: How the Crowd Actually Moves a Stock',
+        date: '2026-04-19',
+        preview: 'I finished Gustave Le Bon\'s The Crowd this week. Le Bon describes four tools leaders use to move crowds: prestige, affirmation, repetition, and contagion. Every one of them maps cleanly onto how stock prices move, especially when nothing in the underlying business is changing. This post walks through all four, then shows how they all played out on PayPal in the last ten weeks.',
+        content: `
+            <p class="disclaimer"><em><strong>Disclaimer:</strong> The content provided in this blog is for informational and educational purposes only and does not constitute financial, investment, or legal advice. I am not a registered investment advisor, and nothing herein should be construed as personalized recommendations to buy, sell, or hold any security. All investments involve risk, including the potential loss of principal, and past performance is not indicative of future results. I may hold positions in securities discussed, and my opinions are based on my own research and experiences. Always conduct your own due diligence and consult with a qualified financial professional before making any investment decisions. I assume no liability for any actions taken based on this information.</em></p>
+
+            <p><strong><em>PERSONAL SECTION – SKIP IF YOU WANT TO</em></strong></p>
+
+            <p>Haven't wrote a personal section in a little bit. My boy Carl said he immediately closed the last blog because there wasn't one. So this ones for Cal.</p>
+
+            <p>As Cal knows, the last couple weeks of my life have been fucked. I have no other word. Fucked. I thought taking a month off of work would be all sunshine and rainbows. Turns out, it's probably the hardest thing I've ever done. Specifically because I did it at a time where I've been making a lot of other life decisions and a lot in my life has developed in the last couple weeks. I have so much time to sit with myself and see some hard truths. I recommend everyone do this. I'm dealing with complete uncertainty on all fronts of my life. And navigating completely uncharted territory. Cal knows what's up.</p>
+
+            <p>So despite what I would have imagined, I feel wrecked most days. But all I can think about is a quote from Thoreau from his book Walden: "If one listens to the faintest but constant suggestion of his genius, which are certainly true, he sees not to what extremes, or even insanity, it may lead him: and yet that way, as he grows more resolute and faithful, his road lies. The faintest assured objection which one healthy man feels will at length prevail over the arguments and customs of mankind. No man ever followed his genius till it misled him. Though the result were bodily weakness, yet perhaps no one can say that the consequences were to be regretted, for these were a life in conformity to higher principles." - Henry David Thoreau</p>
+
+            <p>All I have to say is: follow that voice in your head. No matter how wrecked you are, do what you know you need to do. Those who can separate how they feel from how they act do something special in life.</p>
+
+            <p>Please enjoy this piece of writing. I'm going to ski aggressively for the next 4 hours in a noble quest to clear the mind. I know damn well it won't work, but it will help.</p>
+
+            <p>I finished Gustave Le Bon's <em>The Crowd: A Study of the Popular Mind</em> this week. It came out in 1895, runs about 150 pages, and if you care at all about investing, I think it might be the most valuable short book you can read outside of a finance textbook.</p>
+
+            <p>I didn't pick it up looking for investing lessons. I picked it up because I was curious about how groups of people think and behave differently than the individuals that make them up. The investing stuff just became impossible to ignore once I started reading.</p>
+
+            <p>The chapter that stuck with me the most was Chapter 3 of Book II, "The Leaders of Crowds and Their Means of Persuasion." In it, Le Bon lays out the specific tools leaders use to move crowds. He breaks them into four things. Prestige, affirmation, repetition, and contagion. Every single one of them maps cleanly onto how stock prices actually move, especially when nothing in the underlying business is changing.</p>
+
+            <p>I want to walk through each one, because the definitions matter, and then I want to show how all four played out on PayPal over the last ten weeks. It's basically a live case study of the machinery.</p>
+
+            <h2>The Four Levers</h2>
+
+            <p>Start with <strong>prestige</strong>. Le Bon defines it as the quality that lets a person or institution get listened to without having to prove anything first. He writes:</p>
+
+            <p><em>"The prestige of which I have just spoken is that exercised by individuals... It chains our critical faculty and fills our soul with astonishment and respect."</em></p>
+
+            <p>The word to focus on is "chains." Prestige doesn't defeat reasoning, it skips it. When someone prestigious makes a claim, you're less likely to ask for the proof, because their name already feels like the proof. This is why Warren Buffett's annual letter moves markets. It's why a Goldman Sachs upgrade moves a stock more than the same upgrade from a firm nobody's heard of. And it's why Michael Burry disclosing a 3.5% stake in a stock carries more sentiment weight than the same stake disclosed by some anonymous hedge fund, even if the actual dollar amount is identical.</p>
+
+            <p>Once you have prestige, the next lever is <strong>affirmation</strong>, which just means stating a conclusion without bothering to back it up. Le Bon:</p>
+
+            <p><em>"Affirmation pure and simple, kept free of all reasoning and all proof, is one of the surest means of making an idea enter the mind of crowds."</em></p>
+
+            <p>Examples are everywhere. "AI is the future." "Housing always goes up." "You can't time the market." None of those are reasoned. They're conclusions delivered as if they're obvious. Compare the first one to its reasoned version: "AI infrastructure companies spent roughly $300 billion in capex in 2025, but 90% of firms report no meaningful productivity gains, so the timing of returns is uncertain." That version is more accurate and will travel about 1% as far, because it doesn't fit in a headline or a podcast clip.</p>
+
+            <p>Then comes <strong>repetition</strong>, which is how an affirmation eventually becomes believed. Le Bon:</p>
+
+            <p><em>"The thing affirmed comes by repetition to fix itself in the mind in such a way that it is accepted in the end as a demonstrated truth."</em></p>
+
+            <p>This might be my favorite line in the whole book. An affirmation repeated long enough becomes truth in the crowd's mind without any new proof ever being added. It doesn't need evidence. It just needs a calendar. Three months of every CNBC segment saying the same thing, six months of analyst notes using the same phrase, twelve months of the same headline formula, and eventually the claim stops being a claim. It's just the background everyone takes for granted.</p>
+
+            <p>Finally, <strong>contagion</strong>, which is what scales all of this. Le Bon:</p>
+
+            <p><em>"In the case of men collected in a crowd all emotions are very rapidly contagious, which explains the suddenness of panics."</em></p>
+
+            <p><em>"The opinions and beliefs of crowds are specially propagated by contagion, but never by reasoning."</em></p>
+
+            <p>You see your friend buy the stock. You see the chart going up. You see ten tweets about it. And by the time you think you've decided something, the decision already happened. Your conscious thought is mostly ratification.</p>
+
+            <p>That's the whole chapter in four words. Prestige, affirmation, repetition, contagion. Pull all four levers, and you can move a lot of people somewhere they never would have gotten to alone.</p>
+
+            <h2>Markets Are Crowds by Definition</h2>
+
+            <p>Here is the part that took me a while to really feel.</p>
+
+            <p>A market exists, definitionally, because a lot of people are doing something together. One buyer and one seller isn't a market. One hundred is maybe the start of one. A million is what trades a single large-cap US stock on a normal day. By the time you are looking at any price on any screen, you are looking at the output of a crowd.</p>
+
+            <p>Le Bon's central claim is that crowds do not reason the way individuals reason. They simplify. They anchor. They catch emotions from each other. They accept confidently-stated things they would have questioned alone. He writes that <em>"the majority of men, especially among the masses, do not possess clear and reasoned ideas on any subject whatever outside their own specialty."</em> Most people do not know whether PayPal's checkout share is actually eroding, or whether OpenAI's projected 2027 losses are a real problem, or whether the dollar is about to weaken. Most people do not have time to know. So they adopt, from the crowd, some general impression, and they treat that impression as knowledge.</p>
+
+            <p>If markets are crowds by definition, and crowds cannot reason independently, then the most valuable skill you can bring to a market is exactly the thing the market itself doesn't have. Independent reasoning. Not contrarianism for its own sake, which is a different mistake, but the specific discipline of checking what you actually believe against what the crowd currently believes, and being willing to hold positions where those two diverge.</p>
+
+            <p>The paradox is that to do this, you still have to participate in the crowd. You buy through its liquidity. You sell through its liquidity. You benefit when it agrees with you and suffer when it doesn't. You cannot step outside the crowd and also trade. The game is to sit inside it physically while staying outside it mentally. That is harder than it sounds, and I don't think anyone, including me, does it perfectly.</p>
+
+            <h2>The Same Machinery, Bigger Stage</h2>
+
+            <p>I don't want to spend long on the Mag 7 here, because Blog 5 already walked through it. But as a quick overlay, just notice the machinery.</p>
+
+            <p><em>"The risk of under-investing is dramatically greater than the risk of over-investing."</em> That is Sundar Pichai, CEO of Google. Affirmation without reasoning, backed by the prestige of the office, repeated through every transcript and every analyst note. <em>"AI is the new electricity." "Nvidia is the picks and shovels of the AI boom." "American tech is the only place to be."</em> Each of these started as a thought. Each has been fixed into the crowd's mind not by proof, but by time and repetition. That doesn't make any of them wrong. It just means we don't actually <em>know</em> whether they're right, because they haven't been tested. They've been repeated.</p>
+
+            <p>Keep that template in your head, because I'm about to show you the same thing running at a much smaller scale, on a single stock, in the opposite direction, and then reversing itself in seventy-two days.</p>
+
+            <h2>PayPal: The Same Four Levers, Reversed</h2>
+
+            <p>In Blog 3 I walked through PayPal as a case study. On February 3rd, 2026, PYPL dropped roughly 20% in a single day on a Q4 earnings miss and the surprise departure of CEO Alex Chriss. The stock drifted lower from there and was trading near $40 when I wrote the post. I walked through the three-layer framework, statistical, economic, and behavioral, and argued that the behavioral layer was screaming opportunity. The narrative was brutal, consensus was confidently pessimistic, and structural constraints made it very hard for professional money to step in and buy. I did not say the stock would go up. I said the price was embedding a forecast that looked more extreme than what the fundamentals supported.</p>
+
+            <p>Seventy-two days later, PYPL closed at $49.81. That's up roughly 25% from where it was when Blog 3 went up.</p>
+
+            <p>Before anything else, I want to be honest about what that does and doesn't prove. It does not prove I was right about PayPal. A 25% move over ten weeks is not a thesis confirmed, it's a stock that has bounced. The thesis gets confirmed, or not, over years, through cash flow and execution, not through a sentiment-driven rally. What the move does demonstrate is Le Bon's machinery running in reverse, in public, on a timeline short enough to actually document. Here's what happened. Watch which lever is getting pulled at each step.</p>
+
+            <p><strong>February 23-24. The Stripe acquisition rumor.</strong> Bloomberg reports that Stripe is considering acquiring all or parts of PayPal. The stock gets halted mid-session on a Limit Up/Limit Down circuit breaker, which literally means buy orders flooded in so fast the exchange had to pause trading. When it resumes, shares close up 6.72% at $47.01 on roughly 200% of average daily volume. What lever is that? Prestige plus contagion. Stripe at a $159 billion valuation is the most prestigious private fintech in the world. Its reported interest is an affirmation by action: this company is worth buying. The circuit breaker is the contagion. Emotions synchronizing so fast the market mechanically couldn't keep up.</p>
+
+            <p><strong>March 1. New CEO takes over.</strong> Enrique Lores, formerly the CEO of HP, officially replaces interim CEO Jamie Miller. This is the only thing in the ten-week window that represents a real change to the business, and even it is a change in personnel, not operations. Lores has not announced a strategy. He has not restructured anything. But the possibility of a new strategy, which is really an affirmation with no content yet, gets baked into the stock.</p>
+
+            <p><strong>March 27. CNBC headline: "This bargain fintech stock is stuck in a five-year rut. A turnaround is coming."</strong> Notice the sentence. It's pure affirmation. No argument, no evidence. The headline just asserts that a turnaround is coming. That's prestige plus affirmation. The CNBC byline carries enough weight that the assertion is treated as a premise rather than a hypothesis. Then repetition sets in. The phrase "turnaround coming" starts showing up in other outlets. Every repetition strengthens the idea a little more.</p>
+
+            <p><strong>April 7. Citi raises its price target from $42 to $48.</strong> An analyst upgrade. This is the most formally reasoned of the catalysts. Citi actually has a model somewhere. But the only thing that travels out of the upgrade is the number. $42 to $48. Everyone hears the ratio, almost no one reads the underlying reasoning. Affirmation extracted from reasoning and stripped for distribution. More analyst shops echo similar moves over the next ten days.</p>
+
+            <p><strong>April 16. Michael Burry discloses a ~3.5% stake in PYPL on his Substack.</strong> His argument is almost perfectly Le Bonian in structure. He asserts, without showing most of the proof, that the recent software selloff was "technical, not fundamental," driven by a "reflexive positive feedback loop" between falling prices and stressed bank debt tied to software companies. Notice what's happening. Prestige, pure and undiluted. The man from <em>The Big Short</em>, telling you he bought PayPal at roughly $49. Affirmation stripped of extensive proof. His Substack readers redistribute it within hours. The stock climbs 2.5%. Activist investor speculation piggybacks on the disclosure. Within a day, it's the top PYPL story on every financial site.</p>
+
+            <p>Here is the part I want to sit with you on.</p>
+
+            <p>Between February 3rd and April 16th, nothing about PayPal's actual operating reality changed. Same 439 million active accounts. Same $1.79 trillion in annualized payment volume. Same $5.5 billion free cash flow engine. Same flat 2026 guidance. Same moat, same threats, same Venmo growth. The next earnings report isn't even until May 5th. The business is the business it was on February 3rd.</p>
+
+            <p>What changed was a series of prestige signals, affirmations, and narrative repetitions. Four levers, each pulled once, cumulatively swinging the crowd's view of the same business by 25%.</p>
+
+            <p>To be fair, I'll note what isn't pure sentiment. Stripe's reported interest, if real, is new information about strategic value. Someone with prestige and capital thinks the company is worth buying. Burry's position, if genuine, is new information about what at least one serious investor sees after doing forensic work. The new CEO is a real change. None of these are imaginary. But all of them are information about how other people value the business, not information about the business's cash flows. The operating reality, which is what Graham's weighing machine ultimately cares about, is unchanged.</p>
+
+            <p>And I want to be honest about one more thing before moving on, because it matters.</p>
+
+            <p>I mentioned PayPal in Blog 3, publicly, at about $40. Michael Burry disclosed his stake at roughly $49. I am not writing this to claim I "beat" Burry. I am writing it because the sequence is actually useful evidence. Two people applying different versions of the same framework, which is to look for fundamentally sound businesses where the crowd's forecast has stretched far from reality, arrived at the same company within ten weeks of each other, neither of us having access to information the other didn't have. The framework isn't a secret. It just requires the willingness to stand where the crowd isn't.</p>
+
+            <h2>Contagion Runs Both Directions</h2>
+
+            <p>Here's the real lesson from the PayPal story, and it isn't "PYPL went up."</p>
+
+            <p>The same psychology that sent PYPL from the low $80s to $40 last year, and then dropped it another 20% in a single day on February 3rd, is what is now lifting it back toward $50. Panic and rally aren't opposites. They're the exact same mechanism running in different directions.</p>
+
+            <p>When Le Bon writes that <em>"in the case of men collected in a crowd all emotions are very rapidly contagious, which explains the suddenness of panics,"</em> he's describing what happened on February 3rd. A Q4 miss and a CEO departure, two pieces of information that on their own could reasonably support a 5 to 10% decline, triggered a 20% drop. Why the extra 10%? Contagion. Every sell triggered the next sell. Every bearish headline echoed the last one. Every analyst downgrade justified the downgrade before it.</p>
+
+            <p>The same contagion mechanism, in reverse, is what drove the circuit-breaker rally on February 24th when the Stripe rumor hit. Buy orders triggered buy orders. The word "acquisition" repeated itself. Every chart showing the jump attracted the next buyer.</p>
+
+            <p>Once you see that panic and rally are the same mechanism, two things become available to you that aren't available to people who think of them as opposites.</p>
+
+            <p>First, the best buying opportunities come from the panics, because panics systematically overshoot. Crowds that are contagiously fearful end up pricing in worse outcomes than the fundamentals actually imply, because fear is socially amplified. Blog 3's call on PYPL worked, so far, not because the company suddenly got better, but because the crowd's fear had overrun the business's actual condition.</p>
+
+            <p>Second, rallies fueled by the same mechanism are just as suspect. A stock that has gone up 25% in ten weeks on four narrative catalysts and zero fundamental changes is not a safer investment than it was at the bottom. It's a less attractive one, at a higher price. The math hasn't changed, the narrative has improved, and the entry is worse. If you bought PYPL at $40, the right reaction to $50 is not "I was right, let me buy more." It's closer to "the crowd is now closer to my view, so my margin has shrunk, and I should probably sit still or trim."</p>
+
+            <p>Contagion works both ways. You exploit the down-contagion. You respect the up-contagion.</p>
+
+            <h2>So What Do You Actually Do?</h2>
+
+            <p>The honest answer is partial, and I want to be upfront about that, because "how to sit outside the crowd" usually gets sold as a clever formula and it isn't one.</p>
+
+            <p>Anchor to cash flow. Cash flow is the one thing in markets that isn't a forecast, isn't a story, and isn't a vote. Either the business generates cash or it doesn't. Either that cash is growing, stable, or shrinking. Prestige doesn't move cash flow. Neither does affirmation, repetition, or contagion. If your thesis is grounded in a company's actual ability to generate and grow cash, you have something to hold onto when the crowd's mood shifts around you.</p>
+
+            <p>Track the gap. The Blog 2 question still applies. What forecast is embedded in this price, and is it realistic? When the gap is wide and the fundamentals are on your side, you might have an opportunity. When the gap is wide the other way and the fundamentals don't support the optimism, you probably want to get out of the way. The four levers tell you <em>how</em> the crowd is moving. The gap tells you <em>whether it's right</em>.</p>
+
+            <p>Notice contagion in yourself. This is the hardest one. When you feel the urge to buy something because it's been going up, or sell something because it's been going down, that feeling is almost never yours. It's the crowd's feeling, transmitted to you through charts, headlines, friends, and timelines. The feeling is information, but it's information about the crowd, not about the asset. Treat it like a weather report, not a conclusion.</p>
+
+            <p>Accept that you'll look wrong alone. This is the structural point from Blog 3 I can't repeat often enough. Professional managers who control 55 to 60% of US equities face career risk for deviating from consensus, which is why mispricings persist. Most capital can't act on what it sees. To benefit from mispricings, you have to be willing to hold positions that look bad next to the benchmark for months, sometimes years, before the weighing machine catches up. If you can't emotionally tolerate looking wrong for a long time, you can't run this strategy. There is no workaround.</p>
+
+            <p>That's it. Anchor, measure, notice, tolerate. The framework is simple. The discipline is what's hard, and that is exactly why the returns exist. If it were easy, everyone would do it, and there would be no excess returns left to capture.</p>
+
+            <h2>Coming Up Next</h2>
+
+            <p>I've been researching specific companies through this same lens, and I'll share names next week. Some are obvious. Most are not. All of them are boring, which is the only thing I'm confident about.</p>
+
+            <p>Le Bon would say the four levers only move a stock because of what's happening inside the crowd's head, and you can't change what's inside the crowd's head. That's true. But you can stand somewhere different while it's swinging, and that is where the opportunity is.</p>
+
+            <p>As always, I don't want to and never will make a single dime off this blog. I do this because I love it, and because I want more of my friends to understand how markets actually work. If any of this was useful, share it. Subscribe below so I don't have to text all of you apes every week.</p>
+
+            <p>See you Sunday. Cheers.</p>
+
+            <hr style="margin: 2rem 0;">
+            <section class="post-footer">
+                <div class="post-footer-col post-footer-subscribe">
+                    <h3 class="section-title">Stay in the Loop</h3>
+                    <p class="section-subtitle">Get an email when a new post goes live.</p>
+                    <form class="subscribe-form" action="https://buttondown.com/api/emails/embed-subscribe/keaton" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/keaton', 'popupwindow')">
+                        <input type="hidden" name="embed" value="1">
+                        <input class="subscribe-input" type="email" name="email" placeholder="Enter your email" required>
+                        <button class="subscribe-button" type="submit">Notify Me</button>
+                    </form>
+                    <p class="subscribe-note">No spam. Unsubscribe anytime.</p>
+                </div>
+                <div class="post-footer-col post-footer-share">
+                    <h3 class="section-title">Share This Post</h3>
+                    <p class="section-subtitle">Help spread the word.</p>
+                    <button class="share-button" type="button" onclick="(function(b){navigator.clipboard.writeText(window.location.href).then(function(){var o=b.innerHTML;b.innerHTML='&#10003; Copied to clipboard';b.classList.add('copied');setTimeout(function(){b.innerHTML=o;b.classList.remove('copied')},2000)})})(this)">Copy Link</button>
+                    <p class="subscribe-note">One click to share.</p>
+                </div>
+            </section>
+        `
     }
 ];
