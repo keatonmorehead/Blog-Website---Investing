@@ -617,7 +617,7 @@ const blogs = [
 
             <p><strong><em>PERSONAL SECTION – SKIP IF YOU WANT TO</em></strong></p>
 
-            <p>Haven't wrote a personal section in a little bit. My boy Carl said he immediately closed the last blog because there wasn't one. So this ones for Cal.</p>
+            <p>Haven't wrote a personal section in a little bit. My boy Cal said he immediately closed the last blog because there wasn't one. So this ones for Cal.</p>
 
             <p>As Cal knows, the last couple weeks of my life have been fucked. I have no other word. Fucked. I thought taking a month off of work would be all sunshine and rainbows. Turns out, it's probably the hardest thing I've ever done. Specifically because I did it at a time where I've been making a lot of other life decisions and a lot in my life has developed in the last couple weeks. I have so much time to sit with myself and see some hard truths. I recommend everyone do this. I'm dealing with complete uncertainty on all fronts of my life. And navigating completely uncharted territory. Cal knows what's up.</p>
 
@@ -626,6 +626,8 @@ const blogs = [
             <p>All I have to say is: follow that voice in your head. No matter how wrecked you are, do what you know you need to do. Those who can separate how they feel from how they act do something special in life.</p>
 
             <p>Please enjoy this piece of writing. I'm going to ski aggressively for the next 4 hours in a noble quest to clear the mind. I know damn well it won't work, but it will help.</p>
+
+            <hr style="margin: 2.5rem 0;">
 
             <p>I finished Gustave Le Bon's <em>The Crowd: A Study of the Popular Mind</em> this week. It came out in 1895, runs about 150 pages, and if you care at all about investing, I think it might be the most valuable short book you can read outside of a finance textbook.</p>
 
