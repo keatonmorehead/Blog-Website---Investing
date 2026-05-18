@@ -779,5 +779,183 @@ const blogs = [
                 </div>
             </section>
         `
+    },
+
+    {
+        id: 'post-7',
+        title: 'Blog 7: Maybe the Dream Doesn\u2019t Live in One Country',
+        date: '2026-05-18',
+        preview: 'US stocks are sitting at one of the two most expensive valuations in 145 years, and the dollar those returns would be paid in is under long-run structural pressure. This post runs three international markets (the UK, Poland, and Singapore) through the same three-layer value framework as a diversification case.',
+        content: `
+            <p class="disclaimer"><em><strong>Disclaimer:</strong> The content provided in this blog is for informational and educational purposes only and does not constitute financial, investment, or legal advice. I am not a registered investment advisor, and nothing herein should be construed as personalized recommendations to buy, sell, or hold any security. All investments involve risk, including the potential loss of principal, and past performance is not indicative of future results. I may hold positions in securities discussed, and my opinions are based on my own research and experiences. Always conduct your own due diligence and consult with a qualified financial professional before making any investment decisions. I assume no liability for any actions taken based on this information.</em></p>
+
+            <p><strong><em>PERSONAL SECTION — SKIP IF YOU WANT TO</em></strong></p>
+
+            <p>Howdy. It's been a very long time. Lots of change recently, haven't had very much mental capacity or time. I worked on writing this blog from 3 different countries actually. Portugal, Morocco, and Italy. Currently wrapping it up and publishing it from the airport in Sicily. Headed to Korce, Albania. Albania, North Macedonia, Kosovo, and then Greece to finish is the route.</p>
+
+            <p>Coming to learn traveling is actually kinda boring, with some highlights mixed in. And I don't like boredom. It's been hard. Brutal, honestly. Definitely missing home and everything that comes with that. The people, the places, the routines, the activities, my kitchen. I had to go 6,000 miles away to realize this unfortunately.</p>
+
+            <p>But it's good for the soul, so they say. Time will tell. Right now I can tell you the soul feels a little wrecked, but I'm confident I'll come home a better person. Miss all of you fuckers. Hope you're all doing well.</p>
+
+            <hr style="margin: 2.5rem 0;">
+
+            <p>There is a version of the American dream that nobody argues with. You get a job. You save a chunk of every paycheck. You put it in an S&amp;P 500 index fund and you do not touch it. You do that for forty years. You retire comfortable. Your money worked while you slept, and it worked because America worked.</p>
+
+            <p>I am not about to tell you that plan is stupid. It is not. It has been one of the best wealth-building machines in human history. If you had run that exact plan for the last forty years you would have done extraordinarily well, and you would have beaten almost everyone who tried to be clever.</p>
+
+            <p>But every plan has an assumption baked into it, and the assumption inside that one is simple: that American stocks, bought at any price, keep delivering what they delivered before.</p>
+
+            <p>I have spent the last few weeks looking hard at whether that assumption still holds. Not whether America is doomed. Not whether you should panic. Just whether the most common piece of investing advice in the country still makes sense at the price you would be paying for it today. The honest answer is that it makes a lot less sense than it did, especially if you are planning to retire in the next ten to twenty years, and there are options worth looking at that almost nobody talks about.</p>
+
+            <p>I am traveling through Europe right now. It felt like the right time to write the blog where we leave the United States and look around.</p>
+
+            <p>Here is where we are going. First, the strategy almost everyone is running, and the crack in it. Then a look at how expensive US stocks actually are, with real numbers. Then a second, separate kind of risk that has nothing to do with valuations and everything to do with the dollar in your pocket. Then the actual solution, which is where I run a few countries through the same framework I have used in every blog so far. Then I will leave you with a thought.</p>
+
+            <h2>The American Dream Portfolio</h2>
+
+            <p>Let us say exactly what the mainstream plan is, because most people have never had it written out plainly.</p>
+
+            <p>Save five to ten percent of your income. Put as much as you can into a 401(k). Buy an S&amp;P 500 index fund, or a target-date fund that slowly shifts you from stocks into bonds as you age, or some mix of the two. Add a bond fund for ballast. Then wait. Do not check it. Do not tinker. Let it compound for thirty or forty years and retire rich.</p>
+
+            <p>This is good advice. For most people, most of the time, the biggest investing mistakes are not buying the wrong fund, they are panic selling, stock picking badly, paying high fees, or never starting. The boring plan fixes all four. If you are twenty-five and you have decades ahead of you, dollar-cost averaging into a broad index for forty years will probably still work out fine, because you are buying the whole way up and the whole way down, and time bails you out.</p>
+
+            <p>Here is the crack.</p>
+
+            <p>That plan quietly assumes the S&amp;P 500 delivers something close to its long-run average, which is roughly seven percent a year after inflation. That number is the engine. It is the thing that turns a few hundred dollars a month into a comfortable retirement. And that seven percent is not a law of physics. It is an average, and averages have a starting price attached to them. What you earn over the next decade depends enormously on what you paid going in.</p>
+
+            <p>Right now you would be paying one of the highest prices in the history of the US stock market. Not a high price. One of the highest ever, with only a single period in 145 years that was more expensive.</p>
+
+            <p>That matters most for one specific group of people: anyone who needs this money in the next ten to twenty years. If you are fifty-two and planning to retire at sixty-seven, you do not have forty years for the math to rescue you. You have fifteen. And if those fifteen years happen to be the stretch where the market works off the most extreme valuation in a century, you can do everything right, save diligently, never panic, and still end up well short of what the brochure promised. That is not a doom scenario. It has happened before, more than once, and it has lasted a decade or longer each time.</p>
+
+            <p>That is a real risk. It is not a risk I would take blindfolded. So let us actually look at the numbers, and then look at what else you could do.</p>
+
+            <h2>A Look at How Expensive America Actually Is</h2>
+
+            <p>I need to introduce one tool, and I promise to keep it quick.</p>
+
+            <p>The problem with looking at a normal price-to-earnings ratio is that company earnings swing around a lot year to year. In a boom they look great, in a recession they collapse, so the ratio lies to you exactly when you most want the truth. An economist named Robert Shiller fixed this with something called the CAPE ratio. It takes the price of the market and divides it by the average of the last ten years of earnings, adjusted for inflation. Ten years smooths out the booms and busts. What you are left with is a number you can actually compare across history. You can put 1929 next to 1999 next to 2007 next to today and the comparison means something.</p>
+
+            <p>As I write this in May 2026, the CAPE ratio on the S&amp;P 500 is somewhere around 38 to 41, depending on the day and the source. It moves, so do not anchor on the exact figure. The long-run average is about 16 to 17. We are sitting at more than double the historical norm. In 145 years of data, the only time it was clearly higher was the peak of the dot-com bubble in 1999 and 2000. We are above 1929. We are above 2007. Shiller's own work, applied to a starting point like this one, implies future real returns of something like one to two percent a year, not seven.</p>
+
+            <p>If you only remember one fact from this blog, make it that one. The engine that the entire retirement plan depends on is running at a setting it has almost never run at, and the one other time it ran this hot, it was followed by a lost decade.</p>
+
+            <p>There is a second gauge worth knowing, partly because Warren Buffett made it famous. You take the total value of the US stock market and divide it by the size of the US economy. The logic is intuitive. Stocks are claims on the economy, so over time the two should bear some relationship. Buffett once called it probably the best single measure of where valuations stand. Historically, anything over about 120 percent was considered expensive. Today that number is roughly 215 to 230 percent. It has never been higher. I will give it the honest caveat it deserves: big US companies now earn a large share of their money overseas, so this measure runs a little hot for structural reasons. Even adjusting for that, it is flashing.</p>
+
+            <p>And there is one more thing about that S&amp;P 500 index you would be buying, which I have written about before and will keep beating the drum on. It is not as diversified as the name suggests. The top ten companies are about 36 to 41 percent of the entire index. One company, Nvidia, has been roughly eight percent of it by itself. When you buy the index today you are not buying five hundred companies in any meaningful sense. You are buying a handful of enormous technology companies with a long tail stapled on for decoration.</p>
+
+            <p>So that is the valuation picture. Expensive on every honest measure, and concentrated in a way it has never been before. Which raises a fair question. Is expensive the whole story, or is something bigger going on underneath it?</p>
+
+            <h2>The Second Risk Nobody Puts on the Brochure</h2>
+
+            <p>Everything above is about price. This next part is not. This is about the thing you would actually be paid in.</p>
+
+            <p>I have leaned on Ray Dalio's work in earlier blogs and I am going to lean on it again, because he has spent his career studying what happens to big countries when their debts get too large. The pattern, across centuries, is consistent. Countries with too much debt almost never solve it the responsible way, by spending less and paying it back. They print money and let the currency lose value instead. The debt still gets paid back on paper. It just gets paid back in money that is worth less, and the person who quietly eats the loss is whoever was holding the bonds and the cash.</p>
+
+            <p>The US numbers fit the setup. Federal debt held by the public is around 100 percent of the size of the economy and still climbing. The government is running a deficit near six percent of the economy in a year with no recession and no war. Interest on the debt is now over a trillion dollars a year, roughly three billion dollars a day, and it is a bigger line item than defense. Dalio's view, stated plainly in early 2026, is that the monetary order is breaking down and every heavily indebted government eventually faces one question: do you print money, or do you let a debt crisis happen. He thinks he knows which one gets chosen, because it is the one that always gets chosen, and he expects the debt to be paid back in devalued dollars.</p>
+
+            <p>Now, two honest things, because I am not in the business of selling you fear.</p>
+
+            <p>First, Dalio's track record. His big-picture historical framework is genuinely respected, and I find it convincing. His timing is not good. He has been warning about US debt for years, and the market climbed a wall the entire time. Bridgewater's flagship fund has been mediocre for over a decade. Being right about the destination is not the same as being right about when you arrive, and he has been early for a long time.</p>
+
+            <p>Second, the strongest argument against him. The dollar's role as the world's reserve currency is sticky in a way that is hard to overstate. Researchers at Brookings, the Fed, and the IMF have made the case that the much-quoted decline in the dollar's share of global reserves, from about 71 percent in 2001 to roughly 57 percent today, is mostly an accounting effect from a strong dollar and rising foreign asset prices, not the world actively dumping dollars. And there is no real replacement. The euro has its own fractures. China's currency has capital controls that make it unusable as a true reserve. Gold is not something you pay your employees with. So the dollar could absolutely stay dominant for a very long time.</p>
+
+            <p>Here is how I hold both of those at once. I do not need to be sure Dalio is right. I just need the bet to be asymmetric. If he is even partly right about the dollar losing value over the long run, owning some of your assets outside the dollar pays off meaningfully. If he is wrong, owning some non-dollar assets costs you a little extra wobble and not much else. A small chance of a big problem, against a small certain inconvenience. When the payoff is shaped like that, you buy a little insurance. You do not bet the house, and you do not ignore it either.</p>
+
+            <p>So between valuations and the dollar, we have two completely separate reasons, that do not depend on each other, pointing at the same conclusion: a portfolio that is 100 percent American stocks is carrying more risk right now than the people running it usually realize. Which finally brings us to what you can actually do about it.</p>
+
+            <h2>The Solution: One Framework, Six Filters, Three Countries</h2>
+
+            <p>If you have read the earlier blogs you know I do not believe in scavenger hunting for cheap-looking numbers. A low ratio by itself tells you nothing. It might be a bargain or it might be a warning label, and the ratio cannot tell you which. So I am going to run this search the same way I run every search, through the three layers I laid out back in Blog 2.</p>
+
+            <p>Layer one is statistical value. Is it actually cheap on the numbers. This is the flashlight in a dark room. It finds doors. It does not tell you what is behind them.</p>
+
+            <p>Layer two is economic value. Is the thing behind the door any good. For a country that means real growth, a government that is not drowning in debt, a credible central bank, and a financial system that works.</p>
+
+            <p>Layer three is behavioral value. Why is it cheap.</p>
+
+            <p>I added one more filter for this search, a sixth one, specific to going abroad: currency. When you, an American, buy a normal international fund, you are not just buying foreign stocks. You are also, automatically, holding foreign money. If that foreign currency rises against the dollar, your fund goes up just from that, before the stocks do anything. If it falls, the reverse. Most people never realize this is happening. For the last decade it was mostly a headwind, because the dollar was strong, and that is a big reason American investors gave up on international investing and decided it never works. But the dollar being strong for a decade is exactly why foreign currencies are not expensive now, and if Dalio is even a little right, that headwind turns into a tailwind. So I screened for currencies that look reasonable or cheap, not pricey. I am not making a precise call on any single one. I just want the wind at our back, or at worst not in our face.</p>
+
+            <p>Here is the one analogy I want you to remember from this whole blog. Putting your entire retirement into an S&amp;P 500 fund right now is the same shape of bet as putting your entire retirement into a single stock. Everyone agrees the single stock is reckless, because if it has a bad decade your savings go down with it and you have nowhere else to stand. Owning only American stocks is the same bet, just bigger and better disguised. It feels safe because that one stock has been the best stock in the world for fifteen years. That is not diversification. That is the most crowded, most expensive single bet on the planet, made because it has been winning. Owning other countries is just owning other bets that can pay off when this one does not.</p>
+
+            <p>So I screened roughly thirty-five countries on all six filters: cheap on a range of measures and not just CAPE, real growth ahead of them, a sane national balance sheet, a believable central bank, stable rule of law, and a currency that is not stretched against the dollar. The cheap-but-uninvestable markets washed out, Russia and Turkey and Argentina and China and Hong Kong among them, for reasons that have nothing to do with price and everything to do with whether you can actually own the thing safely. Three made it through cleanly.</p>
+
+            <h3>Pick One: The United Kingdom</h3>
+
+            <p>The UK is the textbook case of the whole framework lining up.</p>
+
+            <p>On the flashlight, it is cheap. The FTSE 100 trades at a forward price-to-earnings around 13, against the S&amp;P 500 up near 22 to 23. Its CAPE is about 20 against America's 38 to 41. It pays a dividend yield around three and a half percent, and once you add buybacks the cash coming back to shareholders is over four percent. UK companies are set to pay a record amount in dividends in 2026.</p>
+
+            <p>On economic value, here is the thing most people miss. The FTSE 100 is not really a bet on the British economy, which is admittedly sluggish. Those companies earn roughly three quarters of their revenue outside the UK. You are buying global energy, global banks, global pharma, and global consumer brands at a local discount. The names are not exotic. Shell, BP, AstraZeneca, GSK, HSBC, Unilever, Diageo, Rio Tinto. Most of them trade in the US as ADRs under tickers like SHEL, AZN, HSBC, UL, and DEO, so you can own the individual blue chips directly if you want.</p>
+
+            <p>On behavioral value, the question is why is it this cheap, and the answer is clean. The UK market has spent a decade in the penalty box. Brexit scared global investors off. British pension funds, which used to be the natural owners of these stocks, have spent twenty years selling them and moving into bonds and global funds. So you have a market that its own home country has abandoned and that global investors still bucket as boring and broken. That is the voting machine walking away from a set of perfectly good cash flows. Nobody is structurally lined up to buy it, which is exactly the condition you want.</p>
+
+            <p>The simplest way in is an ETF. EWU is the iShares MSCI United Kingdom fund, expense ratio around 0.50 percent. FLGB is the Franklin equivalent and much cheaper at about 0.09 percent, which is the one I would lean toward if I were just buying the country.</p>
+
+            <p>Honest risks. The British economy really does grow slowly, and a cheap market can stay cheap for years while you collect the dividend and wait. The index is concentrated in a handful of giant energy, bank, and pharma names, so it is not as broad as it looks. And the currency could weaken if the Bank of England cuts rates faster than the Fed. You are being paid to take those risks. You are not being paid nothing.</p>
+
+            <h3>Pick Two: Poland</h3>
+
+            <p>Poland is the cheapest thing in this list and one of the few places where cheap, growing, and stable all show up at once.</p>
+
+            <p>On the flashlight, Polish stocks trade at single-digit to low-teens earnings multiples, near book value, with a solid dividend. Among large markets it is about as statistically cheap as Europe offers.</p>
+
+            <p>On economic value, this is the part that does not fit the stereotype. Poland is one of the fastest-growing economies in Europe, with real growth running three to four percent while Western Europe crawls. Government debt is around fifty percent of the economy, roughly half of where the US, the UK, and most of the eurozone sit. It is in the EU and in NATO. Inflation has come down hard from its 2022 spike. This is not a fragile economy wearing a cheap price tag. It is a genuinely healthy one wearing a cheap price tag.</p>
+
+            <p>On behavioral value, why is it cheap. Because it sits next to Ukraine, and global investors still file it under risky Eastern Europe out of pure habit, even though Poland itself has not been attacked and has actually been one of the biggest beneficiaries of the surge in European defense spending. The proximity to the war is real, and it is the reason the discount exists. The market is small, nobody buys it as a theme, emerging-market funds give it a thin weight and move on. Once again, a clear answer to who is structurally not buying it.</p>
+
+            <p>The currency adds to the case rather than subtracting. The Polish zloty is meaningfully cheap on purchasing-power measures, so if you believe in long-run convergence toward Western European living standards, the currency is a slow tailwind, not a drag.</p>
+
+            <p>Access is cleanest through an ETF, because direct US-listed shares of Polish companies are thin. EPOL is the iShares MSCI Poland fund, expense ratio around 0.59 percent. FLPL is the Franklin version, far cheaper at roughly 0.09 percent. Under the hood you mostly own Polish banks, the energy company Orlen, and a standout grocery compounder called Dino.</p>
+
+            <p>Honest risks. This is an emerging market, so it is more volatile, full stop. The currency can swing. It is concentrated in financials and energy. And the single biggest reason it is cheap, the war next door, is also a genuine tail risk, not a free lunch. You are being paid for that risk too. Whether the payment is enough is the judgment call, and I think at these prices it is.</p>
+
+            <h3>Pick Three: Singapore</h3>
+
+            <p>The third pick is the quiet one, and it took the seat that South Korea held a year ago. Korea was cheap, the government was pushing real corporate reform, the setup was perfect, and then it worked. The Korean market ran up something like 76 percent in 2025. If you were already in it, that is the framework paying off exactly as designed. But the cheap entry is gone, and the screen, run honestly on today's prices, bumps it out.</p>
+
+            <p>Singapore moves up into the slot. It is not as statistically dirt-cheap as the UK or Poland, but it scores so well on everything else that it earns the spot.</p>
+
+            <p>On the flashlight, the Singapore market trades around a low-teens forward earnings multiple with a dividend yield near five percent, cheaper than the US and modestly cheap against its own history.</p>
+
+            <p>On economic value, Singapore is close to the best-run balance sheet in the world. It holds one of the only AAA sovereign credit ratings left. Counting its sovereign wealth, the government has more assets than debt. Inflation is tightly managed, the currency is actively run by the central bank and has appreciated against the dollar over decades, and the country is structurally winning from global trade rewiring around China. This is quality, not a turnaround story.</p>
+
+            <p>On behavioral value, the reason it is cheap is almost funny. It is boring. The index is small and dominated by three banks and a pile of property trusts. It does not excite anyone, there is no story to tell at a party, so global investors underweight it despite world-class governance. Boring and well-run, ignored precisely because it is boring, is a very good place to go looking.</p>
+
+            <p>The currency is a quiet plus. The Singapore dollar has been one of the most reliable stores of value on earth. It is not cheap, but it has earned its strength and has historically kept appreciating.</p>
+
+            <p>One fund covers it: EWS, the iShares MSCI Singapore ETF, expense ratio around 0.50 percent. The big banks, DBS, OCBC, and UOB, are the core of it.</p>
+
+            <p>Honest risks. It is a small, concentrated market, heavy in three banks and property trusts, and sensitive to global trade and to China specifically. And it is the one pick here that is well-priced for quality rather than outright cheap. You are buying safety at a fair price, not a bargain at a scary one. Different trade, same framework.</p>
+
+            <h2>Wrapping It Up</h2>
+
+            <p>US stocks are at one of the two most expensive valuations in 145 years, on every honest measure, and the index is more concentrated than it has ever been. Separately, and for completely different reasons, the dollar those returns would be paid in is under long-run structural pressure that the standard retirement plan does not account for. Two independent arguments, one conclusion: being 100 percent in American stocks today is a bigger, more crowded bet than most people running it realize. The fix is not to flee. The fix is to own some other bets. The UK, Poland, and Singapore each clear the same three-layer test I apply to everything, for three different reasons: the UK is a global business at a local discount the world abandoned, Poland is a genuinely healthy economy mispriced by its zip code, and Singapore is world-class quality that is ignored for being dull. A modest US small and value tilt and a small slice of gold round it out. None of this requires you to be sure about anything. It just requires you to stop putting everything into the one thing because it has been the best thing.</p>
+
+            <p>And there is more out there than just public stocks in other countries. Private equity, private credit, structured products, strategies that move between risk-on and risk-off, real assets. Each of those is its own rabbit hole and I am going to climb into them in future blogs, one at a time, the same careful way.</p>
+
+            <p>The American dream was never really about America the place. It was about the idea that if you were disciplined and patient, the system would compound your effort into something bigger over a lifetime. That idea is not dead. But somewhere along the way we quietly added a footnote that said it only counts if all of it is invested at home, in the most expensive market on the planet, at the most expensive moment in its history. Nobody decided that on purpose. It just became the default, the way defaults do.</p>
+
+            <p>So here is the question. The plan was always to buy the whole haystack instead of hunting for needles. When did we decide the haystack stopped at the border, and is that a decision, or just a habit nobody ever questioned?</p>
+
+            <hr style="margin: 2rem 0;">
+            <section class="post-footer">
+                <div class="post-footer-col post-footer-subscribe">
+                    <h3 class="section-title">Stay in the Loop</h3>
+                    <p class="section-subtitle">Get an email when a new post goes live.</p>
+                    <form class="subscribe-form" action="https://buttondown.com/api/emails/embed-subscribe/keaton" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/keaton', 'popupwindow')">
+                        <input type="hidden" name="embed" value="1">
+                        <input class="subscribe-input" type="email" name="email" placeholder="Enter your email" required>
+                        <button class="subscribe-button" type="submit">Notify Me</button>
+                    </form>
+                    <p class="subscribe-note">No spam. Unsubscribe anytime.</p>
+                </div>
+                <div class="post-footer-col post-footer-share">
+                    <h3 class="section-title">Share This Post</h3>
+                    <p class="section-subtitle">Help spread the word.</p>
+                    <button class="share-button" type="button" onclick="(function(b){navigator.clipboard.writeText(window.location.href).then(function(){var o=b.innerHTML;b.innerHTML='&#10003; Copied to clipboard';b.classList.add('copied');setTimeout(function(){b.innerHTML=o;b.classList.remove('copied')},2000)})})(this)">Copy Link</button>
+                    <p class="subscribe-note">One click to share.</p>
+                </div>
+            </section>
+        `
     }
 ];
